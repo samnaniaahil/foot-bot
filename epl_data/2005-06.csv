@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee
+13/08/05,Aston Villa,Bolton,2,2,D,2,2,D,M Riley
+13/08/05,Everton,Man United,0,2,A,0,1,A,G Poll
+13/08/05,Fulham,Birmingham,0,0,D,0,0,D,R Styles
+13/08/05,Man City,West Brom,0,0,D,0,0,D,C Foy
+13/08/05,Middlesbrough,Liverpool,0,0,D,0,0,D,M Halsey
+13/08/05,Portsmouth,Tottenham,0,2,A,0,1,A,B Knight
+13/08/05,Sunderland,Charlton,1,3,A,1,1,D,H Webb
+13/08/05,West Ham,Blackburn,3,1,H,0,1,A,A Wiley
+14/08/05,Arsenal,Newcastle,2,0,H,0,0,D,S Bennett
+14/08/05,Wigan,Chelsea,0,1,A,0,0,D,M Clattenburg
+20/08/05,Birmingham,Man City,1,2,A,1,1,D,M Clattenburg
+20/08/05,Blackburn,Fulham,2,1,H,1,0,H,H Webb
+20/08/05,Charlton,Wigan,1,0,H,1,0,H,R Styles
+20/08/05,Liverpool,Sunderland,1,0,H,1,0,H,B Knight
+20/08/05,Man United,Aston Villa,1,0,H,0,0,D,P Dowd
+20/08/05,Newcastle,West Ham,0,0,D,0,0,D,D Gallagher
+20/08/05,Tottenham,Middlesbrough,2,0,H,0,0,D,M Atkinson
+20/08/05,West Brom,Portsmouth,2,1,H,1,0,H,M Riley
+21/08/05,Bolton,Everton,0,1,A,0,0,D,A Wiley
+21/08/05,Chelsea,Arsenal,1,0,H,0,0,D,G Poll
+23/08/05,Birmingham,Middlesbrough,0,3,A,0,2,A,P Dowd
+23/08/05,Portsmouth,Aston Villa,1,1,D,1,1,D,G Poll
+23/08/05,Sunderland,Man City,1,2,A,1,2,A,P Walton
+24/08/05,Arsenal,Fulham,4,1,H,1,1,D,M Clattenburg
+24/08/05,Blackburn,Tottenham,0,0,D,0,0,D,D Gallagher
+24/08/05,Bolton,Newcastle,2,0,H,1,0,H,R Styles
+24/08/05,Chelsea,West Brom,4,0,H,2,0,H,M Halsey
+27/08/05,Aston Villa,Blackburn,1,0,H,1,0,H,M Clattenburg
+27/08/05,Fulham,Everton,1,0,H,0,0,D,M Riley
+27/08/05,Man City,Portsmouth,2,1,H,0,0,D,A Wiley
+27/08/05,Tottenham,Chelsea,0,2,A,0,1,A,R Styles
+27/08/05,West Brom,Birmingham,2,3,A,1,3,A,G Poll
+27/08/05,West Ham,Bolton,1,2,A,0,0,D,P Dowd
+27/08/05,Wigan,Sunderland,1,0,H,1,0,H,S Bennett
+28/08/05,Middlesbrough,Charlton,0,3,A,0,1,A,M Dean
+28/08/05,Newcastle,Man United,0,2,A,0,0,D,H Webb
+10/09/05,Birmingham,Charlton,0,1,A,0,1,A,M Halsey
+10/09/05,Chelsea,Sunderland,2,0,H,0,0,D,M Dean
+10/09/05,Everton,Portsmouth,0,1,A,0,0,D,M Atkinson
+10/09/05,Man United,Man City,1,1,D,1,0,H,S Bennett
+10/09/05,Middlesbrough,Arsenal,2,1,H,1,0,H,M Riley
+10/09/05,Newcastle,Fulham,1,1,D,0,1,A,A Wiley
+10/09/05,Tottenham,Liverpool,0,0,D,0,0,D,H Webb
+10/09/05,West Brom,Wigan,1,2,A,1,1,D,M Clattenburg
+11/09/05,Bolton,Blackburn,0,0,D,0,0,D,G Poll
+12/09/05,West Ham,Aston Villa,4,0,H,2,0,H,R Styles
+17/09/05,Aston Villa,Tottenham,1,1,D,1,0,H,S Bennett
+17/09/05,Charlton,Chelsea,0,2,A,0,0,D,H Webb
+17/09/05,Fulham,West Ham,1,2,A,0,0,D,G Poll
+17/09/05,Portsmouth,Birmingham,1,1,D,1,1,D,D Gallagher
+17/09/05,Sunderland,West Brom,1,1,D,1,0,H,R Beeby
+18/09/05,Blackburn,Newcastle,0,3,A,0,0,D,M Riley
+18/09/05,Liverpool,Man United,0,0,D,0,0,D,R Styles
+18/09/05,Man City,Bolton,0,1,A,0,0,D,M Dean
+18/09/05,Wigan,Middlesbrough,1,1,D,0,1,A,U Rennie
+19/09/05,Arsenal,Everton,2,0,H,2,0,H,A Wiley
+24/09/05,Birmingham,Liverpool,2,2,D,0,0,D,S Bennett
+24/09/05,Bolton,Portsmouth,1,0,H,1,0,H,M Clattenburg
+24/09/05,Chelsea,Aston Villa,2,1,H,1,1,D,B Knight
+24/09/05,Everton,Wigan,0,1,A,0,0,D,R Styles
+24/09/05,Man United,Blackburn,1,2,A,0,1,A,P Dowd
+24/09/05,Newcastle,Man City,1,0,H,1,0,H,G Poll
+24/09/05,West Brom,Charlton,1,2,A,0,2,A,C Foy
+24/09/05,West Ham,Arsenal,0,0,D,0,0,D,M Dean
+25/09/05,Middlesbrough,Sunderland,0,2,A,0,1,A,H Webb
+26/09/05,Tottenham,Fulham,1,0,H,1,0,H,A Wiley
+01/10/05,Blackburn,West Brom,2,0,H,0,0,D,U Rennie
+01/10/05,Charlton,Tottenham,2,3,A,1,0,H,P Dowd
+01/10/05,Fulham,Man United,2,3,A,2,3,A,H Webb
+01/10/05,Portsmouth,Newcastle,0,0,D,0,0,D,S Bennett
+01/10/05,Sunderland,West Ham,1,1,D,1,0,H,M Atkinson
+02/10/05,Arsenal,Birmingham,1,0,H,0,0,D,C Foy
+02/10/05,Aston Villa,Middlesbrough,2,3,A,0,1,A,M Dean
+02/10/05,Liverpool,Chelsea,1,4,A,1,2,A,G Poll
+02/10/05,Man City,Everton,2,0,H,0,0,D,M Halsey
+02/10/05,Wigan,Bolton,2,1,H,0,0,D,A Wiley
+15/10/05,Chelsea,Bolton,5,1,H,0,1,A,R Styles
+15/10/05,Liverpool,Blackburn,1,0,H,0,0,D,M Halsey
+15/10/05,Middlesbrough,Portsmouth,1,1,D,0,0,D,C Foy
+15/10/05,Sunderland,Man United,1,3,A,0,1,A,S Bennett
+15/10/05,Tottenham,Everton,2,0,H,0,0,D,D Gallagher
+15/10/05,West Brom,Arsenal,2,1,H,1,1,D,B Knight
+15/10/05,Wigan,Newcastle,1,0,H,1,0,H,P Dowd
+16/10/05,Birmingham,Aston Villa,0,1,A,0,1,A,G Poll
+16/10/05,Man City,West Ham,2,1,H,1,0,H,M Clattenburg
+17/10/05,Charlton,Fulham,1,1,D,0,1,A,M Riley
+22/10/05,Arsenal,Man City,1,0,H,0,0,D,M Riley
+22/10/05,Aston Villa,Wigan,0,2,A,0,1,A,R Beeby
+22/10/05,Blackburn,Birmingham,2,0,H,0,0,D,B Knight
+22/10/05,Fulham,Liverpool,2,0,H,1,0,H,M Atkinson
+22/10/05,Man United,Tottenham,1,1,D,1,0,H,U Rennie
+22/10/05,Portsmouth,Charlton,1,2,A,1,0,H,H Webb
+23/10/05,Bolton,West Brom,2,0,H,0,0,D,M Dean
+23/10/05,Everton,Chelsea,1,1,D,1,0,H,M Clattenburg
+23/10/05,Newcastle,Sunderland,3,2,H,2,2,D,R Styles
+23/10/05,West Ham,Middlesbrough,2,1,H,0,0,D,S Bennett
+29/10/05,Birmingham,Everton,0,1,A,0,1,A,R Styles
+29/10/05,Charlton,Bolton,0,1,A,0,0,D,M Clattenburg
+29/10/05,Chelsea,Blackburn,4,2,H,2,2,D,M Riley
+29/10/05,Liverpool,West Ham,2,0,H,1,0,H,U Rennie
+29/10/05,Middlesbrough,Man United,4,1,H,3,0,H,A Wiley
+29/10/05,Sunderland,Portsmouth,1,4,A,1,0,H,M Halsey
+29/10/05,Tottenham,Arsenal,1,1,D,1,0,H,S Bennett
+29/10/05,Wigan,Fulham,1,0,H,0,0,D,A Marriner
+30/10/05,West Brom,Newcastle,0,3,A,0,0,D,H Webb
+31/10/05,Man City,Aston Villa,3,1,H,2,0,H,D Gallagher
+05/11/05,Arsenal,Sunderland,3,1,H,2,0,H,A Wiley
+05/11/05,Aston Villa,Liverpool,0,2,A,0,0,D,S Bennett
+05/11/05,Blackburn,Charlton,4,1,H,2,1,H,P Dowd
+05/11/05,Fulham,Man City,2,1,H,2,1,H,R Styles
+05/11/05,Newcastle,Birmingham,1,0,H,0,0,D,M Dean
+05/11/05,Portsmouth,Wigan,0,2,A,0,0,D,M Clattenburg
+05/11/05,West Ham,West Brom,1,0,H,0,0,D,P Walton
+06/11/05,Everton,Middlesbrough,1,0,H,1,0,H,M Riley
+06/11/05,Man United,Chelsea,1,0,H,1,0,H,G Poll
+07/11/05,Bolton,Tottenham,1,0,H,1,0,H,H Webb
+19/11/05,Charlton,Man United,1,3,A,0,1,A,M Riley
+19/11/05,Chelsea,Newcastle,3,0,H,0,0,D,M Halsey
+19/11/05,Liverpool,Portsmouth,3,0,H,2,0,H,P Walton
+19/11/05,Man City,Blackburn,0,0,D,0,0,D,M Atkinson
+19/11/05,Sunderland,Aston Villa,1,3,A,0,0,D,C Foy
+19/11/05,West Brom,Everton,4,0,H,1,0,H,D Gallagher
+19/11/05,Wigan,Arsenal,2,3,A,2,3,A,G Poll
+20/11/05,Middlesbrough,Fulham,3,2,H,0,1,A,U Rennie
+20/11/05,Tottenham,West Ham,1,1,D,1,0,H,A Wiley
+26/11/05,Arsenal,Blackburn,3,0,H,2,0,H,C Foy
+26/11/05,Aston Villa,Charlton,1,0,H,0,0,D,M Clattenburg
+26/11/05,Man City,Liverpool,0,1,A,0,0,D,A Wiley
+26/11/05,Portsmouth,Chelsea,0,2,A,0,1,A,P Dowd
+26/11/05,Sunderland,Birmingham,0,1,A,0,0,D,U Rennie
+26/11/05,Wigan,Tottenham,1,2,A,0,1,A,M Riley
+27/11/05,Everton,Newcastle,1,0,H,0,0,D,H Webb
+27/11/05,Fulham,Bolton,2,1,H,2,0,H,G Poll
+27/11/05,Middlesbrough,West Brom,2,2,D,1,1,D,P Walton
+27/11/05,West Ham,Man United,1,2,A,1,0,H,S Bennett
+30/11/05,Sunderland,Liverpool,0,2,A,0,2,A,P Dowd
+03/12/05,Blackburn,Everton,0,2,A,0,2,A,M Halsey
+03/12/05,Bolton,Arsenal,2,0,H,2,0,H,H Webb
+03/12/05,Chelsea,Middlesbrough,1,0,H,0,0,D,M Riley
+03/12/05,Liverpool,Wigan,3,0,H,2,0,H,U Rennie
+03/12/05,Man United,Portsmouth,3,0,H,1,0,H,C Foy
+03/12/05,Newcastle,Aston Villa,1,1,D,1,0,H,A Wiley
+03/12/05,Tottenham,Sunderland,3,2,H,1,1,D,P Walton
+03/12/05,West Brom,Fulham,0,0,D,0,0,D,S Bennett
+04/12/05,Charlton,Man City,2,5,A,1,2,A,P Dowd
+05/12/05,Birmingham,West Ham,1,2,A,1,2,A,M Atkinson
+10/12/05,Birmingham,Fulham,1,0,H,0,0,D,U Rennie
+10/12/05,Blackburn,West Ham,3,2,H,0,1,A,M Riley
+10/12/05,Bolton,Aston Villa,1,1,D,0,0,D,P Dowd
+10/12/05,Charlton,Sunderland,2,0,H,1,0,H,A Wiley
+10/12/05,Chelsea,Wigan,1,0,H,0,0,D,H Webb
+10/12/05,Liverpool,Middlesbrough,2,0,H,0,0,D,S Bennett
+10/12/05,Newcastle,Arsenal,1,0,H,0,0,D,D Gallagher
+10/12/05,West Brom,Man City,2,0,H,1,0,H,M Dean
+11/12/05,Man United,Everton,1,1,D,1,1,D,R Styles
+12/12/05,Tottenham,Portsmouth,3,1,H,0,1,A,U Rennie
+14/12/05,Everton,West Ham,1,2,A,1,1,D,P Walton
+14/12/05,Man United,Wigan,4,0,H,2,0,H,A Wiley
+17/12/05,Aston Villa,Man United,0,2,A,0,1,A,M Dean
+17/12/05,Everton,Bolton,0,4,A,0,1,A,A Wiley
+17/12/05,Fulham,Blackburn,2,1,H,1,0,H,M Clattenburg
+17/12/05,Man City,Birmingham,4,1,H,3,0,H,S Bennett
+17/12/05,Portsmouth,West Brom,1,0,H,0,0,D,M Halsey
+17/12/05,West Ham,Newcastle,2,4,A,1,2,A,P Dowd
+17/12/05,Wigan,Charlton,3,0,H,1,0,H,M Atkinson
+18/12/05,Arsenal,Chelsea,0,2,A,0,1,A,R Styles
+18/12/05,Middlesbrough,Tottenham,3,3,D,2,1,H,H Webb
+26/12/05,Aston Villa,Everton,4,0,H,1,0,H,M Riley
+26/12/05,Charlton,Arsenal,0,1,A,0,0,D,S Bennett
+26/12/05,Chelsea,Fulham,3,2,H,2,1,H,G Poll
+26/12/05,Liverpool,Newcastle,2,0,H,2,0,H,M Halsey
+26/12/05,Man United,West Brom,3,0,H,2,0,H,M Clattenburg
+26/12/05,Middlesbrough,Blackburn,0,2,A,0,1,A,U Rennie
+26/12/05,Portsmouth,West Ham,1,1,D,1,0,H,A Wiley
+26/12/05,Sunderland,Bolton,0,0,D,0,0,D,M Atkinson
+26/12/05,Tottenham,Birmingham,2,0,H,0,0,D,P Dowd
+26/12/05,Wigan,Man City,4,3,H,3,1,H,D Gallagher
+28/12/05,Arsenal,Portsmouth,4,0,H,4,0,H,M Clattenburg
+28/12/05,Birmingham,Man United,2,2,D,1,1,D,H Webb
+28/12/05,Everton,Liverpool,1,3,A,1,2,A,G Poll
+28/12/05,Fulham,Aston Villa,3,3,D,2,1,H,A D'Urso
+28/12/05,Man City,Chelsea,0,1,A,0,0,D,U Rennie
+28/12/05,West Brom,Tottenham,2,0,H,1,0,H,M Riley
+28/12/05,West Ham,Wigan,0,2,A,0,2,A,S Bennett
+31/12/05,Aston Villa,Arsenal,0,0,D,0,0,D,U Rennie
+31/12/05,Charlton,West Ham,2,0,H,1,0,H,G Poll
+31/12/05,Chelsea,Birmingham,2,0,H,2,0,H,M Dean
+31/12/05,Liverpool,West Brom,1,0,H,0,0,D,A Wiley
+31/12/05,Man United,Bolton,4,1,H,2,1,H,S Bennett
+31/12/05,Middlesbrough,Man City,0,0,D,0,0,D,M Atkinson
+31/12/05,Portsmouth,Fulham,1,0,H,1,0,H,M Riley
+31/12/05,Sunderland,Everton,0,1,A,0,0,D,R Styles
+31/12/05,Tottenham,Newcastle,2,0,H,1,0,H,H Webb
+31/12/05,Wigan,Blackburn,0,3,A,0,1,A,M Clattenburg
+02/01/06,Birmingham,Wigan,2,0,H,2,0,H,P Walton
+02/01/06,Blackburn,Portsmouth,2,1,H,2,1,H,M Dean
+02/01/06,Bolton,Liverpool,2,2,D,1,0,H,M Clattenburg
+02/01/06,Everton,Charlton,3,1,H,2,1,H,U Rennie
+02/01/06,Fulham,Sunderland,2,1,H,1,1,D,D Gallagher
+02/01/06,Newcastle,Middlesbrough,2,2,D,1,0,H,S Bennett
+02/01/06,West Brom,Aston Villa,1,2,A,0,0,D,R Styles
+02/01/06,West Ham,Chelsea,1,3,A,0,1,A,H Webb
+03/01/06,Arsenal,Man United,0,0,D,0,0,D,G Poll
+04/01/06,Man City,Tottenham,0,2,A,0,1,A,A Wiley
+14/01/06,Arsenal,Middlesbrough,7,0,H,4,0,H,R Styles
+14/01/06,Aston Villa,West Ham,1,2,A,1,0,H,P Dowd
+14/01/06,Blackburn,Bolton,0,0,D,0,0,D,M Riley
+14/01/06,Charlton,Birmingham,2,0,H,1,0,H,G Poll
+14/01/06,Fulham,Newcastle,1,0,H,0,0,D,A Wiley
+14/01/06,Liverpool,Tottenham,1,0,H,0,0,D,D Gallagher
+14/01/06,Man City,Man United,3,1,H,2,0,H,S Bennett
+14/01/06,Portsmouth,Everton,0,1,A,0,1,A,A Marriner
+15/01/06,Sunderland,Chelsea,1,2,A,1,1,D,C Foy
+15/01/06,Wigan,West Brom,0,1,A,0,0,D,M Atkinson
+21/01/06,Birmingham,Portsmouth,5,0,H,2,0,H,C Foy
+21/01/06,Bolton,Man City,2,0,H,2,0,H,R Styles
+21/01/06,Everton,Arsenal,1,0,H,1,0,H,A Wiley
+21/01/06,Middlesbrough,Wigan,2,3,A,0,2,A,A Marriner
+21/01/06,Newcastle,Blackburn,0,1,A,0,0,D,H Webb
+21/01/06,Tottenham,Aston Villa,0,0,D,0,0,D,G Poll
+21/01/06,West Brom,Sunderland,0,1,A,0,0,D,P Dowd
+22/01/06,Chelsea,Charlton,1,1,D,1,0,H,S Bennett
+22/01/06,Man United,Liverpool,1,0,H,0,0,D,M Riley
+23/01/06,West Ham,Fulham,2,1,H,2,0,H,U Rennie
+31/01/06,Charlton,West Brom,0,0,D,0,0,D,I Williamson
+31/01/06,Fulham,Tottenham,1,0,H,0,0,D,H Webb
+31/01/06,Sunderland,Middlesbrough,0,3,A,0,2,A,A Wiley
+31/01/06,Wigan,Everton,1,1,D,1,1,D,M Dean
+01/02/06,Arsenal,West Ham,2,3,A,1,2,A,M Halsey
+01/02/06,Aston Villa,Chelsea,1,1,D,0,1,A,R Styles
+01/02/06,Blackburn,Man United,4,3,H,3,1,H,P Dowd
+01/02/06,Liverpool,Birmingham,1,1,D,0,0,D,U Rennie
+01/02/06,Man City,Newcastle,3,0,H,2,0,H,C Foy
+01/02/06,Portsmouth,Bolton,1,1,D,0,0,D,D Gallagher
+04/02/06,Birmingham,Arsenal,0,2,A,0,1,A,M Riley
+04/02/06,Bolton,Wigan,1,1,D,0,0,D,S Bennett
+04/02/06,Everton,Man City,1,0,H,1,0,H,A Marriner
+04/02/06,Man United,Fulham,4,2,H,3,2,H,M Atkinson
+04/02/06,Middlesbrough,Aston Villa,0,4,A,0,2,A,L Mason
+04/02/06,Newcastle,Portsmouth,2,0,H,1,0,H,M Halsey
+04/02/06,West Brom,Blackburn,2,0,H,2,0,H,C Foy
+04/02/06,West Ham,Sunderland,2,0,H,0,0,D,R Styles
+05/02/06,Chelsea,Liverpool,2,0,H,1,0,H,A Wiley
+05/02/06,Tottenham,Charlton,3,1,H,2,0,H,P Dowd
+08/02/06,Charlton,Liverpool,2,0,H,2,0,H,A Marriner
+11/02/06,Arsenal,Bolton,1,1,D,0,1,A,H Webb
+11/02/06,Aston Villa,Newcastle,1,2,A,1,2,A,M Riley
+11/02/06,Everton,Blackburn,1,0,H,1,0,H,P Walton
+11/02/06,Fulham,West Brom,6,1,H,2,0,H,G Poll
+11/02/06,Middlesbrough,Chelsea,3,0,H,2,0,H,S Bennett
+11/02/06,Portsmouth,Man United,1,3,A,0,3,A,U Rennie
+11/02/06,Wigan,Liverpool,0,1,A,0,1,A,R Styles
+12/02/06,Man City,Charlton,3,2,H,1,0,H,M Dean
+12/02/06,Sunderland,Tottenham,1,1,D,0,1,A,A Marriner
+13/02/06,West Ham,Birmingham,3,0,H,1,0,H,D Gallagher
+14/02/06,Liverpool,Arsenal,1,0,H,0,0,D,G Poll
+15/02/06,Blackburn,Sunderland,2,0,H,1,0,H,K Stroud
+19/02/06,Tottenham,Wigan,2,2,D,1,1,D,U Rennie
+22/02/06,Newcastle,Charlton,0,0,D,0,0,D,U Rennie
+25/02/06,Birmingham,Sunderland,1,0,H,1,0,H,S Bennett
+25/02/06,Blackburn,Arsenal,1,0,H,1,0,H,U Rennie
+25/02/06,Charlton,Aston Villa,0,0,D,0,0,D,C Foy
+25/02/06,Chelsea,Portsmouth,2,0,H,0,0,D,M Riley
+25/02/06,Newcastle,Everton,2,0,H,0,0,D,G Poll
+26/02/06,Bolton,Fulham,2,1,H,1,1,D,P Dowd
+26/02/06,Liverpool,Man City,1,0,H,1,0,H,D Gallagher
+26/02/06,West Brom,Middlesbrough,0,2,A,0,2,A,M Dean
+04/03/06,Aston Villa,Portsmouth,1,0,H,1,0,H,M Dean
+04/03/06,Fulham,Arsenal,0,4,A,0,2,A,R Styles
+04/03/06,Liverpool,Charlton,0,0,D,0,0,D,M Atkinson
+04/03/06,Middlesbrough,Birmingham,1,0,H,1,0,H,G Poll
+04/03/06,Newcastle,Bolton,3,1,H,2,0,H,A Wiley
+04/03/06,West Brom,Chelsea,1,2,A,0,0,D,M Halsey
+04/03/06,West Ham,Everton,2,2,D,2,1,H,M Riley
+05/03/06,Man City,Sunderland,2,1,H,2,1,H,C Foy
+05/03/06,Tottenham,Blackburn,3,2,H,2,1,H,H Webb
+06/03/06,Wigan,Man United,1,2,A,0,0,D,S Bennett
+11/03/06,Birmingham,West Brom,1,1,D,0,0,D,P Dowd
+11/03/06,Blackburn,Aston Villa,2,0,H,0,0,D,D Gallagher
+11/03/06,Bolton,West Ham,4,1,H,3,0,H,M Dean
+11/03/06,Chelsea,Tottenham,2,1,H,1,1,D,G Poll
+11/03/06,Everton,Fulham,3,1,H,2,0,H,U Rennie
+11/03/06,Portsmouth,Man City,2,1,H,0,0,D,M Halsey
+11/03/06,Sunderland,Wigan,0,1,A,0,1,A,M Riley
+12/03/06,Arsenal,Liverpool,2,1,H,1,0,H,S Bennett
+12/03/06,Charlton,Middlesbrough,2,1,H,0,0,D,A Wiley
+12/03/06,Man United,Newcastle,2,0,H,2,0,H,R Styles
+15/03/06,Liverpool,Fulham,5,1,H,2,1,H,A Wiley
+18/03/06,Arsenal,Charlton,3,0,H,2,0,H,D Gallagher
+18/03/06,Birmingham,Tottenham,0,2,A,0,0,D,U Rennie
+18/03/06,Blackburn,Middlesbrough,3,2,H,2,1,H,C Foy
+18/03/06,Bolton,Sunderland,2,0,H,0,0,D,P Dowd
+18/03/06,Everton,Aston Villa,4,1,H,3,0,H,R Styles
+18/03/06,Man City,Wigan,0,1,A,0,0,D,M Atkinson
+18/03/06,West Brom,Man United,1,2,A,0,1,A,H Webb
+18/03/06,West Ham,Portsmouth,2,4,A,0,3,A,A Wiley
+19/03/06,Fulham,Chelsea,1,0,H,1,0,H,M Dean
+19/03/06,Newcastle,Liverpool,1,3,A,1,2,A,M Riley
+25/03/06,Aston Villa,Fulham,0,0,D,0,0,D,L Mason
+25/03/06,Chelsea,Man City,2,0,H,2,0,H,R Styles
+25/03/06,Liverpool,Everton,3,1,H,1,0,H,P Dowd
+25/03/06,Sunderland,Blackburn,0,1,A,0,1,A,P Walton
+25/03/06,Wigan,West Ham,1,2,A,1,0,H,D Gallagher
+26/03/06,Charlton,Newcastle,3,1,H,2,1,H,M Halsey
+26/03/06,Man United,Birmingham,3,0,H,2,0,H,M Dean
+26/03/06,Middlesbrough,Bolton,4,3,H,2,1,H,H Webb
+27/03/06,Tottenham,West Brom,2,1,H,0,1,A,C Foy
+29/03/06,Man United,West Ham,1,0,H,1,0,H,G Poll
+01/04/06,Arsenal,Aston Villa,5,0,H,2,0,H,M Atkinson
+01/04/06,Birmingham,Chelsea,0,0,D,0,0,D,D Gallagher
+01/04/06,Bolton,Man United,1,2,A,1,1,D,A Wiley
+01/04/06,Everton,Sunderland,2,2,D,2,1,H,M Halsey
+01/04/06,Fulham,Portsmouth,1,3,A,1,2,A,C Foy
+01/04/06,Newcastle,Tottenham,3,1,H,3,1,H,M Dean
+01/04/06,West Brom,Liverpool,0,2,A,0,2,A,U Rennie
+02/04/06,Man City,Middlesbrough,0,1,A,0,1,A,M Riley
+02/04/06,West Ham,Charlton,0,0,D,0,0,D,R Styles
+03/04/06,Blackburn,Wigan,1,1,D,0,0,D,P Dowd
+04/04/06,Birmingham,Bolton,1,0,H,1,0,H,C Foy
+08/04/06,Charlton,Everton,0,0,D,0,0,D,P Walton
+08/04/06,Portsmouth,Blackburn,2,2,D,1,1,D,S Bennett
+08/04/06,Tottenham,Man City,2,1,H,1,0,H,D Gallagher
+08/04/06,Wigan,Birmingham,1,1,D,0,0,D,H Webb
+09/04/06,Aston Villa,West Brom,0,0,D,0,0,D,M Halsey
+09/04/06,Chelsea,West Ham,4,1,H,2,1,H,C Foy
+09/04/06,Liverpool,Bolton,1,0,H,1,0,H,R Styles
+09/04/06,Man United,Arsenal,2,0,H,0,0,D,G Poll
+09/04/06,Middlesbrough,Newcastle,1,2,A,0,2,A,A Wiley
+12/04/06,Portsmouth,Arsenal,1,1,D,0,1,A,U Rennie
+14/04/06,Man United,Sunderland,0,0,D,0,0,D,R Styles
+15/04/06,Arsenal,West Brom,3,1,H,1,0,H,M Dean
+15/04/06,Bolton,Chelsea,0,2,A,0,1,A,P Dowd
+15/04/06,Everton,Tottenham,0,1,A,0,1,A,H Webb
+15/04/06,Fulham,Charlton,2,1,H,2,1,H,M Atkinson
+15/04/06,Newcastle,Wigan,3,1,H,2,1,H,U Rennie
+15/04/06,Portsmouth,Middlesbrough,1,0,H,0,0,D,A Marriner
+15/04/06,West Ham,Man City,1,0,H,1,0,H,S Bennett
+16/04/06,Aston Villa,Birmingham,3,1,H,1,1,D,G Poll
+16/04/06,Blackburn,Liverpool,0,1,A,0,1,A,A Wiley
+17/04/06,Charlton,Portsmouth,2,1,H,0,1,A,H Webb
+17/04/06,Chelsea,Everton,3,0,H,1,0,H,R Styles
+17/04/06,Middlesbrough,West Ham,2,0,H,1,0,H,M Atkinson
+17/04/06,Sunderland,Newcastle,1,4,A,1,0,H,C Foy
+17/04/06,Tottenham,Man United,1,2,A,0,2,A,M Halsey
+17/04/06,West Brom,Bolton,0,0,D,0,0,D,D Gallagher
+18/04/06,Wigan,Aston Villa,3,2,H,1,0,H,P Walton
+19/04/06,Birmingham,Blackburn,2,1,H,0,0,D,U Rennie
+22/04/06,Arsenal,Tottenham,1,1,D,0,0,D,S Bennett
+22/04/06,Bolton,Charlton,4,1,H,3,0,H,U Rennie
+22/04/06,Everton,Birmingham,0,0,D,0,0,D,M Halsey
+22/04/06,Newcastle,West Brom,3,0,H,2,0,H,H Webb
+22/04/06,Portsmouth,Sunderland,2,1,H,0,0,D,M Dean
+24/04/06,Fulham,Wigan,1,0,H,1,0,H,R Styles
+25/04/06,Aston Villa,Man City,0,1,A,0,0,D,C Foy
+26/04/06,West Ham,Liverpool,1,2,A,0,1,A,H Webb
+29/04/06,Birmingham,Newcastle,0,0,D,0,0,D,M Atkinson
+29/04/06,Charlton,Blackburn,0,2,A,0,1,A,R Styles
+29/04/06,Chelsea,Man United,3,0,H,1,0,H,M Dean
+29/04/06,Liverpool,Aston Villa,3,1,H,1,0,H,M Halsey
+29/04/06,Man City,Fulham,1,2,A,0,0,D,P Walton
+29/04/06,Middlesbrough,Everton,0,1,A,0,0,D,L Mason
+29/04/06,Wigan,Portsmouth,1,2,A,1,0,H,M Riley
+30/04/06,Tottenham,Bolton,1,0,H,0,0,D,A Wiley
+01/05/06,Man United,Middlesbrough,0,0,D,0,0,D,C Foy
+01/05/06,Sunderland,Arsenal,0,3,A,0,3,A,D Gallagher
+01/05/06,West Brom,West Ham,0,1,A,0,1,A,G Poll
+02/05/06,Blackburn,Chelsea,1,0,H,1,0,H,S Bennett
+03/05/06,Bolton,Middlesbrough,1,1,D,0,0,D,H Webb
+04/05/06,Man City,Arsenal,1,3,A,1,1,D,G Poll
+04/05/06,Sunderland,Fulham,2,1,H,1,0,H,M Riley
+07/05/06,Arsenal,Wigan,4,2,H,2,2,D,U Rennie
+07/05/06,Aston Villa,Sunderland,2,1,H,1,0,H,M Dean
+07/05/06,Blackburn,Man City,2,0,H,1,0,H,H Webb
+07/05/06,Bolton,Birmingham,1,0,H,0,0,D,S Bennett
+07/05/06,Everton,West Brom,2,2,D,0,1,A,A Wiley
+07/05/06,Fulham,Middlesbrough,1,0,H,0,0,D,M Halsey
+07/05/06,Man United,Charlton,4,0,H,3,0,H,M Atkinson
+07/05/06,Newcastle,Chelsea,1,0,H,0,0,D,M Riley
+07/05/06,Portsmouth,Liverpool,1,3,A,0,0,D,G Poll
+07/05/06,West Ham,Tottenham,2,1,H,1,1,D,C Foy

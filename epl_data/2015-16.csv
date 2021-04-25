@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee
+08/08/2015,Bournemouth,Aston Villa,0,1,A,0,0,D,M Clattenburg
+08/08/2015,Chelsea,Swansea,2,2,D,2,1,H,M Oliver
+08/08/2015,Everton,Watford,2,2,D,0,1,A,M Jones
+08/08/2015,Leicester,Sunderland,4,2,H,3,0,H,L Mason
+08/08/2015,Man United,Tottenham,1,0,H,1,0,H,J Moss
+08/08/2015,Norwich,Crystal Palace,1,3,A,0,1,A,S Hooper
+09/08/2015,Arsenal,West Ham,0,2,A,0,1,A,M Atkinson
+09/08/2015,Newcastle,Southampton,2,2,D,1,1,D,C Pawson
+09/08/2015,Stoke,Liverpool,0,1,A,0,0,D,A Taylor
+10/08/2015,West Brom,Man City,0,3,A,0,2,A,M Dean
+14/08/2015,Aston Villa,Man United,0,1,A,0,1,A,M Dean
+15/08/2015,Southampton,Everton,0,3,A,0,2,A,M Oliver
+15/08/2015,Sunderland,Norwich,1,3,A,0,2,A,K Friend
+15/08/2015,Swansea,Newcastle,2,0,H,1,0,H,M Jones
+15/08/2015,Tottenham,Stoke,2,2,D,2,0,H,R Madley
+15/08/2015,Watford,West Brom,0,0,D,0,0,D,P Tierney
+15/08/2015,West Ham,Leicester,1,2,A,0,2,A,A Taylor
+16/08/2015,Crystal Palace,Arsenal,1,2,A,1,1,D,L Mason
+16/08/2015,Man City,Chelsea,3,0,H,1,0,H,M Atkinson
+17/08/2015,Liverpool,Bournemouth,1,0,H,1,0,H,C Pawson
+22/08/2015,Crystal Palace,Aston Villa,2,1,H,0,0,D,K Stroud
+22/08/2015,Leicester,Tottenham,1,1,D,0,0,D,M Atkinson
+22/08/2015,Man United,Newcastle,0,0,D,0,0,D,C Pawson
+22/08/2015,Norwich,Stoke,1,1,D,1,1,D,M Dean
+22/08/2015,Sunderland,Swansea,1,1,D,0,1,A,N Swarbrick
+22/08/2015,West Ham,Bournemouth,3,4,A,0,2,A,J Moss
+23/08/2015,Everton,Man City,0,2,A,0,0,D,A Taylor
+23/08/2015,Watford,Southampton,0,0,D,0,0,D,A Marriner
+23/08/2015,West Brom,Chelsea,2,3,A,1,3,A,M Clattenburg
+24/08/2015,Arsenal,Liverpool,0,0,D,0,0,D,M Oliver
+29/08/2015,Aston Villa,Sunderland,2,2,D,2,1,H,R Madley
+29/08/2015,Bournemouth,Leicester,1,1,D,1,0,H,N Swarbrick
+29/08/2015,Chelsea,Crystal Palace,1,2,A,0,0,D,C Pawson
+29/08/2015,Liverpool,West Ham,0,3,A,0,2,A,K Friend
+29/08/2015,Man City,Watford,2,0,H,0,0,D,M Clattenburg
+29/08/2015,Newcastle,Arsenal,0,1,A,0,0,D,A Marriner
+29/08/2015,Stoke,West Brom,0,1,A,0,1,A,M Oliver
+29/08/2015,Tottenham,Everton,0,0,D,0,0,D,M Jones
+30/08/2015,Southampton,Norwich,3,0,H,1,0,H,J Moss
+30/08/2015,Swansea,Man United,2,1,H,0,0,D,M Atkinson
+12/09/2015,Arsenal,Stoke,2,0,H,1,0,H,J Moss
+12/09/2015,Crystal Palace,Man City,0,1,A,0,0,D,M Jones
+12/09/2015,Everton,Chelsea,3,1,H,2,1,H,A Marriner
+12/09/2015,Man United,Liverpool,3,1,H,0,0,D,M Oliver
+12/09/2015,Norwich,Bournemouth,3,1,H,1,0,H,M Atkinson
+12/09/2015,Watford,Swansea,1,0,H,0,0,D,R Madley
+12/09/2015,West Brom,Southampton,0,0,D,0,0,D,S Attwell
+13/09/2015,Leicester,Aston Villa,3,2,H,0,1,A,M Dean
+13/09/2015,Sunderland,Tottenham,0,1,A,0,0,D,C Pawson
+14/09/2015,West Ham,Newcastle,2,0,H,1,0,H,A Taylor
+19/09/2015,Aston Villa,West Brom,0,1,A,0,1,A,M Atkinson
+19/09/2015,Bournemouth,Sunderland,2,0,H,2,0,H,K Friend
+19/09/2015,Chelsea,Arsenal,2,0,H,0,0,D,M Dean
+19/09/2015,Man City,West Ham,1,2,A,1,2,A,R Madley
+19/09/2015,Newcastle,Watford,1,2,A,0,2,A,R East
+19/09/2015,Stoke,Leicester,2,2,D,2,0,H,A Marriner
+19/09/2015,Swansea,Everton,0,0,D,0,0,D,S Attwell
+20/09/2015,Liverpool,Norwich,1,1,D,0,0,D,A Taylor
+20/09/2015,Southampton,Man United,2,3,A,1,1,D,M Clattenburg
+20/09/2015,Tottenham,Crystal Palace,1,0,H,0,0,D,M Oliver
+26/09/2015,Leicester,Arsenal,2,5,A,1,2,A,C Pawson
+26/09/2015,Liverpool,Aston Villa,3,2,H,1,0,H,J Moss
+26/09/2015,Man United,Sunderland,3,0,H,1,0,H,M Jones
+26/09/2015,Newcastle,Chelsea,2,2,D,1,0,H,M Atkinson
+26/09/2015,Southampton,Swansea,3,1,H,1,0,H,R East
+26/09/2015,Stoke,Bournemouth,2,1,H,1,0,H,L Mason
+26/09/2015,Tottenham,Man City,4,1,H,1,1,D,M Clattenburg
+26/09/2015,West Ham,Norwich,2,2,D,1,1,D,M Dean
+27/09/2015,Watford,Crystal Palace,0,1,A,0,0,D,A Taylor
+28/09/2015,West Brom,Everton,2,3,A,1,0,H,R Madley
+03/10/2015,Aston Villa,Stoke,0,1,A,0,0,D,M Jones
+03/10/2015,Bournemouth,Watford,1,1,D,1,1,D,M Oliver
+03/10/2015,Chelsea,Southampton,1,3,A,1,1,D,R Madley
+03/10/2015,Crystal Palace,West Brom,2,0,H,0,0,D,J Moss
+03/10/2015,Man City,Newcastle,6,1,H,1,1,D,K Friend
+03/10/2015,Norwich,Leicester,1,2,A,0,1,A,M Clattenburg
+03/10/2015,Sunderland,West Ham,2,2,D,2,1,H,N Swarbrick
+04/10/2015,Arsenal,Man United,3,0,H,3,0,H,A Taylor
+04/10/2015,Everton,Liverpool,1,1,D,1,1,D,M Atkinson
+04/10/2015,Swansea,Tottenham,2,2,D,2,1,H,M Dean
+17/10/2015,Chelsea,Aston Villa,2,0,H,1,0,H,R East
+17/10/2015,Crystal Palace,West Ham,1,3,A,1,1,D,M Clattenburg
+17/10/2015,Everton,Man United,0,3,A,0,2,A,J Moss
+17/10/2015,Man City,Bournemouth,5,1,H,4,1,H,M Dean
+17/10/2015,Southampton,Leicester,2,2,D,2,0,H,P Tierney
+17/10/2015,Tottenham,Liverpool,0,0,D,0,0,D,C Pawson
+17/10/2015,Watford,Arsenal,0,3,A,0,0,D,M Jones
+17/10/2015,West Brom,Sunderland,1,0,H,0,0,D,M Atkinson
+18/10/2015,Newcastle,Norwich,6,2,H,3,2,H,A Taylor
+19/10/2015,Swansea,Stoke,0,1,A,0,1,A,R Madley
+24/10/2015,Arsenal,Everton,2,1,H,2,1,H,L Mason
+24/10/2015,Aston Villa,Swansea,1,2,A,0,0,D,N Swarbrick
+24/10/2015,Leicester,Crystal Palace,1,0,H,0,0,D,M Dean
+24/10/2015,Norwich,West Brom,0,1,A,0,0,D,K Friend
+24/10/2015,Stoke,Watford,0,2,A,0,1,A,M Atkinson
+24/10/2015,West Ham,Chelsea,2,1,H,1,0,H,J Moss
+25/10/2015,Bournemouth,Tottenham,1,5,A,1,3,A,R East
+25/10/2015,Liverpool,Southampton,1,1,D,0,0,D,A Marriner
+25/10/2015,Man United,Man City,0,0,D,0,0,D,M Clattenburg
+25/10/2015,Sunderland,Newcastle,3,0,H,1,0,H,R Madley
+31/10/2015,Chelsea,Liverpool,1,3,A,1,1,D,M Clattenburg
+31/10/2015,Crystal Palace,Man United,0,0,D,0,0,D,M Jones
+31/10/2015,Man City,Norwich,2,1,H,0,0,D,R Madley
+31/10/2015,Newcastle,Stoke,0,0,D,0,0,D,R East
+31/10/2015,Swansea,Arsenal,0,3,A,0,0,D,K Friend
+31/10/2015,Watford,West Ham,2,0,H,1,0,H,K Stroud
+31/10/2015,West Brom,Leicester,2,3,A,1,0,H,A Taylor
+01/11/2015,Everton,Sunderland,6,2,H,2,1,H,A Marriner
+01/11/2015,Southampton,Bournemouth,2,0,H,2,0,H,C Pawson
+02/11/2015,Tottenham,Aston Villa,3,1,H,2,0,H,M Dean
+07/11/2015,Bournemouth,Newcastle,0,1,A,0,1,A,L Mason
+07/11/2015,Leicester,Watford,2,1,H,0,0,D,R East
+07/11/2015,Man United,West Brom,2,0,H,0,0,D,M Dean
+07/11/2015,Norwich,Swansea,1,0,H,0,0,D,M Clattenburg
+07/11/2015,Stoke,Chelsea,1,0,H,0,0,D,A Taylor
+07/11/2015,Sunderland,Southampton,0,1,A,0,0,D,M Jones
+07/11/2015,West Ham,Everton,1,1,D,1,1,D,P Tierney
+08/11/2015,Arsenal,Tottenham,1,1,D,0,1,A,M Atkinson
+08/11/2015,Aston Villa,Man City,0,0,D,0,0,D,C Pawson
+08/11/2015,Liverpool,Crystal Palace,1,2,A,1,1,D,N Swarbrick
+21/11/2015,Chelsea,Norwich,1,0,H,0,0,D,C Pawson
+21/11/2015,Everton,Aston Villa,4,0,H,3,0,H,M Oliver
+21/11/2015,Man City,Liverpool,1,4,A,1,3,A,J Moss
+21/11/2015,Newcastle,Leicester,0,3,A,0,1,A,M Jones
+21/11/2015,Southampton,Stoke,0,1,A,0,1,A,L Mason
+21/11/2015,Swansea,Bournemouth,2,2,D,2,2,D,A Marriner
+21/11/2015,Watford,Man United,1,2,A,0,1,A,R Madley
+21/11/2015,West Brom,Arsenal,2,1,H,2,1,H,M Clattenburg
+22/11/2015,Tottenham,West Ham,4,1,H,2,0,H,A Taylor
+23/11/2015,Crystal Palace,Sunderland,0,1,A,0,0,D,M Atkinson
+28/11/2015,Aston Villa,Watford,2,3,A,1,1,D,L Mason
+28/11/2015,Bournemouth,Everton,3,3,D,0,2,A,K Friend
+28/11/2015,Crystal Palace,Newcastle,5,1,H,3,1,H,S Attwell
+28/11/2015,Leicester,Man United,1,1,D,1,1,D,C Pawson
+28/11/2015,Man City,Southampton,3,1,H,2,0,H,R East
+28/11/2015,Sunderland,Stoke,2,0,H,0,0,D,M Dean
+29/11/2015,Liverpool,Swansea,1,0,H,0,0,D,A Taylor
+29/11/2015,Norwich,Arsenal,1,1,D,1,1,D,J Moss
+29/11/2015,Tottenham,Chelsea,0,0,D,0,0,D,M Oliver
+29/11/2015,West Ham,West Brom,1,1,D,1,0,H,M Atkinson
+05/12/2015,Arsenal,Sunderland,3,1,H,1,1,D,R Madley
+05/12/2015,Chelsea,Bournemouth,0,1,A,0,0,D,M Jones
+05/12/2015,Man United,West Ham,0,0,D,0,0,D,M Clattenburg
+05/12/2015,Southampton,Aston Villa,1,1,D,0,1,A,A Taylor
+05/12/2015,Stoke,Man City,2,0,H,2,0,H,M Atkinson
+05/12/2015,Swansea,Leicester,0,3,A,0,2,A,M Oliver
+05/12/2015,Watford,Norwich,2,0,H,1,0,H,M Dean
+05/12/2015,West Brom,Tottenham,1,1,D,1,1,D,J Moss
+06/12/2015,Newcastle,Liverpool,2,0,H,0,0,D,A Marriner
+07/12/2015,Everton,Crystal Palace,1,1,D,0,0,D,C Pawson
+12/12/2015,Bournemouth,Man United,2,1,H,1,1,D,A Taylor
+12/12/2015,Crystal Palace,Southampton,1,0,H,1,0,H,M Dean
+12/12/2015,Man City,Swansea,2,1,H,1,0,H,R Madley
+12/12/2015,Norwich,Everton,1,1,D,0,1,A,M Atkinson
+12/12/2015,Sunderland,Watford,0,1,A,0,1,A,G Scott
+12/12/2015,West Ham,Stoke,0,0,D,0,0,D,A Marriner
+13/12/2015,Aston Villa,Arsenal,0,2,A,0,2,A,K Friend
+13/12/2015,Liverpool,West Brom,2,2,D,1,1,D,C Pawson
+13/12/2015,Tottenham,Newcastle,1,2,A,1,0,H,R East
+14/12/2015,Leicester,Chelsea,2,1,H,1,0,H,M Clattenburg
+19/12/2015,Chelsea,Sunderland,3,1,H,2,0,H,R East
+19/12/2015,Everton,Leicester,2,3,A,1,1,D,J Moss
+19/12/2015,Man United,Norwich,1,2,A,0,1,A,M Oliver
+19/12/2015,Newcastle,Aston Villa,1,1,D,1,0,H,M Atkinson
+19/12/2015,Southampton,Tottenham,0,2,A,0,2,A,K Friend
+19/12/2015,Stoke,Crystal Palace,1,2,A,0,1,A,R Madley
+19/12/2015,West Brom,Bournemouth,1,2,A,0,0,D,M Dean
+20/12/2015,Swansea,West Ham,0,0,D,0,0,D,L Mason
+20/12/2015,Watford,Liverpool,3,0,H,2,0,H,M Clattenburg
+21/12/2015,Arsenal,Man City,2,1,H,2,0,H,A Marriner
+26/12/2015,Aston Villa,West Ham,1,1,D,0,1,A,M Dean
+26/12/2015,Bournemouth,Crystal Palace,0,0,D,0,0,D,M Oliver
+26/12/2015,Chelsea,Watford,2,2,D,1,1,D,A Marriner
+26/12/2015,Liverpool,Leicester,1,0,H,0,0,D,M Atkinson
+26/12/2015,Man City,Sunderland,4,1,H,3,0,H,A Taylor
+26/12/2015,Newcastle,Everton,0,1,A,0,0,D,L Mason
+26/12/2015,Southampton,Arsenal,4,0,H,1,0,H,J Moss
+26/12/2015,Stoke,Man United,2,0,H,2,0,H,K Friend
+26/12/2015,Swansea,West Brom,1,0,H,1,0,H,R East
+26/12/2015,Tottenham,Norwich,3,0,H,2,0,H,M Jones
+28/12/2015,Arsenal,Bournemouth,2,0,H,1,0,H,R East
+28/12/2015,Crystal Palace,Swansea,0,0,D,0,0,D,N Swarbrick
+28/12/2015,Everton,Stoke,3,4,A,1,2,A,M Clattenburg
+28/12/2015,Man United,Chelsea,0,0,D,0,0,D,M Atkinson
+28/12/2015,Norwich,Aston Villa,2,0,H,1,0,H,G Scott
+28/12/2015,Watford,Tottenham,1,2,A,1,1,D,A Taylor
+28/12/2015,West Brom,Newcastle,1,0,H,0,0,D,M Jones
+28/12/2015,West Ham,Southampton,2,1,H,0,1,A,M Oliver
+29/12/2015,Leicester,Man City,0,0,D,0,0,D,C Pawson
+30/12/2015,Sunderland,Liverpool,0,1,A,0,0,D,K Friend
+02/01/2016,Arsenal,Newcastle,1,0,H,0,0,D,A Taylor
+02/01/2016,Leicester,Bournemouth,0,0,D,0,0,D,A Marriner
+02/01/2016,Man United,Swansea,2,1,H,0,0,D,J Moss
+02/01/2016,Norwich,Southampton,1,0,H,0,0,D,M Clattenburg
+02/01/2016,Sunderland,Aston Villa,3,1,H,1,0,H,C Pawson
+02/01/2016,Watford,Man City,1,2,A,0,0,D,M Atkinson
+02/01/2016,West Brom,Stoke,2,1,H,0,0,D,L Mason
+02/01/2016,West Ham,Liverpool,2,0,H,1,0,H,R Madley
+03/01/2016,Crystal Palace,Chelsea,0,3,A,0,1,A,K Friend
+03/01/2016,Everton,Tottenham,1,1,D,1,1,D,M Oliver
+12/01/2016,Aston Villa,Crystal Palace,1,0,H,0,0,D,M Clattenburg
+12/01/2016,Bournemouth,West Ham,1,3,A,1,0,H,M Atkinson
+12/01/2016,Newcastle,Man United,3,3,D,1,2,A,M Dean
+13/01/2016,Chelsea,West Brom,2,2,D,1,1,D,A Taylor
+13/01/2016,Liverpool,Arsenal,3,3,D,2,2,D,M Jones
+13/01/2016,Man City,Everton,0,0,D,0,0,D,R East
+13/01/2016,Southampton,Watford,2,0,H,1,0,H,C Pawson
+13/01/2016,Stoke,Norwich,3,1,H,0,0,D,N Swarbrick
+13/01/2016,Swansea,Sunderland,2,4,A,2,1,H,G Scott
+13/01/2016,Tottenham,Leicester,0,1,A,0,0,D,L Mason
+16/01/2016,Aston Villa,Leicester,1,1,D,0,1,A,R East
+16/01/2016,Bournemouth,Norwich,3,0,H,1,0,H,R Madley
+16/01/2016,Chelsea,Everton,3,3,D,0,0,D,M Jones
+16/01/2016,Man City,Crystal Palace,4,0,H,2,0,H,J Moss
+16/01/2016,Newcastle,West Ham,2,1,H,2,0,H,N Swarbrick
+16/01/2016,Southampton,West Brom,3,0,H,2,0,H,M Atkinson
+16/01/2016,Tottenham,Sunderland,4,1,H,1,1,D,M Dean
+17/01/2016,Liverpool,Man United,0,1,A,0,0,D,M Clattenburg
+17/01/2016,Stoke,Arsenal,0,0,D,0,0,D,C Pawson
+18/01/2016,Swansea,Watford,1,0,H,1,0,H,M Oliver
+23/01/2016,Crystal Palace,Tottenham,1,3,A,1,0,H,M Atkinson
+23/01/2016,Leicester,Stoke,3,0,H,1,0,H,M Dean
+23/01/2016,Man United,Southampton,0,1,A,0,0,D,M Jones
+23/01/2016,Norwich,Liverpool,4,5,A,2,1,H,L Mason
+23/01/2016,Sunderland,Bournemouth,1,1,D,1,1,D,R East
+23/01/2016,Watford,Newcastle,2,1,H,0,0,D,A Marriner
+23/01/2016,West Brom,Aston Villa,0,0,D,0,0,D,R Madley
+23/01/2016,West Ham,Man City,2,2,D,1,1,D,C Pawson
+24/01/2016,Arsenal,Chelsea,0,1,A,0,1,A,M Clattenburg
+24/01/2016,Everton,Swansea,1,2,A,1,2,A,A Taylor
+02/02/2016,Arsenal,Southampton,0,0,D,0,0,D,L Mason
+02/02/2016,Crystal Palace,Bournemouth,1,2,A,1,1,D,M Jones
+02/02/2016,Leicester,Liverpool,2,0,H,0,0,D,A Marriner
+02/02/2016,Man United,Stoke,3,0,H,2,0,H,R East
+02/02/2016,Norwich,Tottenham,0,3,A,0,2,A,K Friend
+02/02/2016,Sunderland,Man City,0,1,A,0,1,A,S Attwell
+02/02/2016,West Brom,Swansea,1,1,D,0,0,D,N Swarbrick
+02/02/2016,West Ham,Aston Villa,2,0,H,0,0,D,J Moss
+03/02/2016,Everton,Newcastle,3,0,H,1,0,H,C Pawson
+03/02/2016,Watford,Chelsea,0,0,D,0,0,D,M Dean
+06/02/2016,Aston Villa,Norwich,2,0,H,1,0,H,M Atkinson
+06/02/2016,Liverpool,Sunderland,2,2,D,0,0,D,R Madley
+06/02/2016,Man City,Leicester,1,3,A,0,1,A,A Taylor
+06/02/2016,Newcastle,West Brom,1,0,H,1,0,H,L Mason
+06/02/2016,Southampton,West Ham,1,0,H,1,0,H,M Clattenburg
+06/02/2016,Stoke,Everton,0,3,A,0,3,A,A Marriner
+06/02/2016,Swansea,Crystal Palace,1,1,D,1,0,H,M Dean
+06/02/2016,Tottenham,Watford,1,0,H,0,0,D,R East
+07/02/2016,Bournemouth,Arsenal,0,2,A,0,2,A,K Friend
+07/02/2016,Chelsea,Man United,1,1,D,0,0,D,M Oliver
+13/02/2016,Bournemouth,Stoke,1,3,A,0,1,A,G Scott
+13/02/2016,Chelsea,Newcastle,5,1,H,3,0,H,R Madley
+13/02/2016,Crystal Palace,Watford,1,2,A,1,1,D,R East
+13/02/2016,Everton,West Brom,0,1,A,0,1,A,M Oliver
+13/02/2016,Norwich,West Ham,2,2,D,0,0,D,M Jones
+13/02/2016,Sunderland,Man United,2,1,H,1,1,D,A Marriner
+13/02/2016,Swansea,Southampton,0,1,A,0,0,D,J Moss
+14/02/2016,Arsenal,Leicester,2,1,H,0,1,A,M Atkinson
+14/02/2016,Aston Villa,Liverpool,0,6,A,0,2,A,N Swarbrick
+14/02/2016,Man City,Tottenham,1,2,A,0,0,D,M Clattenburg
+27/02/2016,Leicester,Norwich,1,0,H,0,0,D,N Swarbrick
+27/02/2016,Southampton,Chelsea,1,2,A,1,0,H,M Atkinson
+27/02/2016,Stoke,Aston Villa,2,1,H,0,0,D,K Friend
+27/02/2016,Watford,Bournemouth,0,0,D,0,0,D,A Taylor
+27/02/2016,West Brom,Crystal Palace,3,2,H,3,0,H,J Moss
+27/02/2016,West Ham,Sunderland,1,0,H,1,0,H,M Dean
+28/02/2016,Tottenham,Swansea,2,1,H,0,1,A,M Jones
+28/02/2016,Man United,Arsenal,3,2,H,2,1,H,C Pawson
+01/03/2016,Aston Villa,Everton,1,3,A,0,2,A,R East
+01/03/2016,Bournemouth,Southampton,2,0,H,1,0,H,M Dean
+01/03/2016,Leicester,West Brom,2,2,D,2,1,H,M Clattenburg
+01/03/2016,Norwich,Chelsea,1,2,A,0,2,A,L Mason
+01/03/2016,Sunderland,Crystal Palace,2,2,D,1,0,H,A Taylor
+02/03/2016,Arsenal,Swansea,1,2,A,1,1,D,R Madley
+02/03/2016,Liverpool,Man City,3,0,H,2,0,H,M Atkinson
+02/03/2016,Man United,Watford,1,0,H,0,0,D,M Jones
+02/03/2016,Stoke,Newcastle,1,0,H,0,0,D,N Swarbrick
+02/03/2016,West Ham,Tottenham,1,0,H,1,0,H,A Marriner
+05/03/2016,Chelsea,Stoke,1,1,D,1,0,H,M Clattenburg
+05/03/2016,Everton,West Ham,2,3,A,1,0,H,A Taylor
+05/03/2016,Man City,Aston Villa,4,0,H,0,0,D,L Mason
+05/03/2016,Newcastle,Bournemouth,1,3,A,0,1,A,P Tierney
+05/03/2016,Southampton,Sunderland,1,1,D,0,0,D,N Swarbrick
+05/03/2016,Swansea,Norwich,1,0,H,0,0,D,C Pawson
+05/03/2016,Tottenham,Arsenal,2,2,D,0,1,A,M Oliver
+05/03/2016,Watford,Leicester,0,1,A,0,0,D,J Moss
+06/03/2016,Crystal Palace,Liverpool,1,2,A,0,0,D,A Marriner
+06/03/2016,West Brom,Man United,1,0,H,0,0,D,M Dean
+12/03/2016,Bournemouth,Swansea,3,2,H,1,1,D,R East
+12/03/2016,Norwich,Man City,0,0,D,0,0,D,J Moss
+12/03/2016,Stoke,Southampton,1,2,A,0,2,A,L Mason
+13/03/2016,Aston Villa,Tottenham,0,2,A,0,1,A,A Taylor
+14/03/2016,Leicester,Newcastle,1,0,H,1,0,H,C Pawson
+19/03/2016,Chelsea,West Ham,2,2,D,1,1,D,R Madley
+19/03/2016,Crystal Palace,Leicester,0,1,A,0,1,A,M Jones
+19/03/2016,Everton,Arsenal,0,2,A,0,2,A,M Clattenburg
+19/03/2016,Swansea,Aston Villa,1,0,H,0,0,D,M Dean
+19/03/2016,Watford,Stoke,1,2,A,0,1,A,C Pawson
+19/03/2016,West Brom,Norwich,0,1,A,0,0,D,A Taylor
+20/03/2016,Man City,Man United,0,1,A,0,1,A,M Oliver
+20/03/2016,Newcastle,Sunderland,1,1,D,0,1,A,M Atkinson
+20/03/2016,Southampton,Liverpool,3,2,H,0,2,A,R East
+20/03/2016,Tottenham,Bournemouth,3,0,H,2,0,H,N Swarbrick
+02/04/2016,Arsenal,Watford,4,0,H,2,0,H,A Taylor
+02/04/2016,Aston Villa,Chelsea,0,4,A,0,2,A,N Swarbrick
+02/04/2016,Bournemouth,Man City,0,4,A,0,3,A,R Madley
+02/04/2016,Liverpool,Tottenham,1,1,D,0,0,D,J Moss
+02/04/2016,Norwich,Newcastle,3,2,H,1,0,H,M Dean
+02/04/2016,Stoke,Swansea,2,2,D,1,0,H,M Atkinson
+02/04/2016,Sunderland,West Brom,0,0,D,0,0,D,R East
+02/04/2016,West Ham,Crystal Palace,2,2,D,2,1,H,M Clattenburg
+03/04/2016,Leicester,Southampton,1,0,H,1,0,H,M Oliver
+03/04/2016,Man United,Everton,1,0,H,0,0,D,A Marriner
+09/04/2016,Aston Villa,Bournemouth,1,2,A,0,1,A,M Atkinson
+09/04/2016,Crystal Palace,Norwich,1,0,H,0,0,D,M Oliver
+09/04/2016,Man City,West Brom,2,1,H,1,1,D,M Jones
+09/04/2016,Southampton,Newcastle,3,1,H,2,0,H,R Madley
+09/04/2016,Swansea,Chelsea,1,0,H,1,0,H,A Marriner
+09/04/2016,Watford,Everton,1,1,D,1,1,D,K Friend
+09/04/2016,West Ham,Arsenal,3,3,D,2,2,D,C Pawson
+10/04/2016,Liverpool,Stoke,4,1,H,2,1,H,M Clattenburg
+10/04/2016,Sunderland,Leicester,0,2,A,0,0,D,A Taylor
+10/04/2016,Tottenham,Man United,3,0,H,0,0,D,M Dean
+13/04/2016,Crystal Palace,Everton,0,0,D,0,0,D,M Jones
+16/04/2016,Chelsea,Man City,0,3,A,0,1,A,M Dean
+16/04/2016,Everton,Southampton,1,1,D,0,0,D,C Pawson
+16/04/2016,Man United,Aston Villa,1,0,H,1,0,H,K Friend
+16/04/2016,Newcastle,Swansea,3,0,H,1,0,H,L Mason
+16/04/2016,Norwich,Sunderland,0,3,A,0,1,A,A Marriner
+16/04/2016,West Brom,Watford,0,1,A,0,1,A,M Oliver
+17/04/2016,Arsenal,Crystal Palace,1,1,D,1,0,H,R East
+17/04/2016,Bournemouth,Liverpool,1,2,A,0,2,A,M Jones
+17/04/2016,Leicester,West Ham,2,2,D,1,0,H,J Moss
+18/04/2016,Stoke,Tottenham,0,4,A,0,1,A,N Swarbrick
+19/04/2016,Newcastle,Man City,1,1,D,1,1,D,K Friend
+20/04/2016,Liverpool,Everton,4,0,H,2,0,H,R Madley
+20/04/2016,Man United,Crystal Palace,2,0,H,1,0,H,L Mason
+20/04/2016,West Ham,Watford,3,1,H,2,0,H,M Dean
+21/04/2016,Arsenal,West Brom,2,0,H,2,0,H,J Moss
+23/04/2016,Aston Villa,Southampton,2,4,A,1,2,A,N Swarbrick
+23/04/2016,Bournemouth,Chelsea,1,4,A,1,2,A,R East
+23/04/2016,Liverpool,Newcastle,2,2,D,2,0,H,A Marriner
+23/04/2016,Man City,Stoke,4,0,H,2,0,H,R Madley
+24/04/2016,Leicester,Swansea,4,0,H,2,0,H,M Clattenburg
+24/04/2016,Sunderland,Arsenal,0,0,D,0,0,D,M Dean
+25/04/2016,Tottenham,West Brom,1,1,D,1,0,H,M Jones
+30/04/2016,Arsenal,Norwich,1,0,H,0,0,D,M Jones
+30/04/2016,Everton,Bournemouth,2,1,H,1,1,D,N Swarbrick
+30/04/2016,Newcastle,Crystal Palace,1,0,H,0,0,D,M Dean
+30/04/2016,Stoke,Sunderland,1,1,D,0,0,D,C Pawson
+30/04/2016,Watford,Aston Villa,3,2,H,1,1,D,A Taylor
+30/04/2016,West Brom,West Ham,0,3,A,0,2,A,L Mason
+01/05/2016,Man United,Leicester,1,1,D,1,1,D,M Oliver
+01/05/2016,Southampton,Man City,4,2,H,2,1,H,A Marriner
+01/05/2016,Swansea,Liverpool,3,1,H,2,0,H,R East
+02/05/2016,Chelsea,Tottenham,2,2,D,0,2,A,M Clattenburg
+07/05/2016,Aston Villa,Newcastle,0,0,D,0,0,D,R Madley
+07/05/2016,Bournemouth,West Brom,1,1,D,0,1,A,M Clattenburg
+07/05/2016,Crystal Palace,Stoke,2,1,H,0,1,A,K Friend
+07/05/2016,Leicester,Everton,3,1,H,2,0,H,A Marriner
+07/05/2016,Norwich,Man United,0,1,A,0,0,D,C Pawson
+07/05/2016,Sunderland,Chelsea,3,2,H,1,2,A,M Jones
+07/05/2016,West Ham,Swansea,1,4,A,0,2,A,M Oliver
+08/05/2016,Liverpool,Watford,2,0,H,1,0,H,L Mason
+08/05/2016,Man City,Arsenal,2,2,D,1,1,D,A Taylor
+08/05/2016,Tottenham,Southampton,1,2,A,1,1,D,J Moss
+10/05/2016,West Ham,Man United,3,2,H,1,0,H,M Dean
+11/05/2016,Liverpool,Chelsea,1,1,D,0,1,A,M Oliver
+11/05/2016,Norwich,Watford,4,2,H,3,1,H,R East
+11/05/2016,Sunderland,Everton,3,0,H,2,0,H,A Taylor
+15/05/2016,Arsenal,Aston Villa,4,0,H,1,0,H,M Clattenburg
+15/05/2016,Chelsea,Leicester,1,1,D,0,0,D,C Pawson
+15/05/2016,Everton,Norwich,3,0,H,2,0,H,L Mason
+15/05/2016,Newcastle,Tottenham,5,1,H,2,0,H,A Taylor
+15/05/2016,Southampton,Crystal Palace,4,1,H,1,0,H,M Oliver
+15/05/2016,Stoke,West Ham,2,1,H,0,1,A,M Jones
+15/05/2016,Swansea,Man City,1,1,D,1,1,D,M Dean
+15/05/2016,Watford,Sunderland,2,2,D,0,1,A,K Friend
+15/05/2016,West Brom,Liverpool,1,1,D,1,1,D,R Madley
+17/05/2016,Man United,Bournemouth,3,1,H,1,0,H,J Moss

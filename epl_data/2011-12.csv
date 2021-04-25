@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee
+13/08/11,Blackburn,Wolves,1,2,A,1,1,D,K Friend
+13/08/11,Fulham,Aston Villa,0,0,D,0,0,D,L Mason
+13/08/11,Liverpool,Sunderland,1,1,D,1,0,H,P Dowd
+13/08/11,Newcastle,Arsenal,0,0,D,0,0,D,P Walton
+13/08/11,QPR,Bolton,0,4,A,0,1,A,M Atkinson
+13/08/11,Wigan,Norwich,1,1,D,1,1,D,S Attwell
+14/08/11,Stoke,Chelsea,0,0,D,0,0,D,M Halsey
+14/08/11,West Brom,Man United,1,2,A,1,1,D,M Jones
+15/08/11,Man City,Swansea,4,0,H,0,0,D,M Dean
+20/08/11,Arsenal,Liverpool,0,2,A,0,0,D,M Atkinson
+20/08/11,Aston Villa,Blackburn,3,1,H,2,0,H,S Attwell
+20/08/11,Chelsea,West Brom,2,1,H,0,1,A,L Mason
+20/08/11,Everton,QPR,0,1,A,0,1,A,K Friend
+20/08/11,Sunderland,Newcastle,0,1,A,0,0,D,H Webb
+20/08/11,Swansea,Wigan,0,0,D,0,0,D,P Dowd
+21/08/11,Bolton,Man City,2,3,A,1,2,A,M Jones
+21/08/11,Norwich,Stoke,1,1,D,1,0,H,N Swarbrick
+21/08/11,Wolves,Fulham,2,0,H,2,0,H,M Dean
+22/08/11,Man United,Tottenham,3,0,H,0,0,D,L Probert
+27/08/11,Aston Villa,Wolves,0,0,D,0,0,D,M Atkinson
+27/08/11,Blackburn,Everton,0,1,A,0,0,D,L Mason
+27/08/11,Chelsea,Norwich,3,1,H,1,0,H,M Jones
+27/08/11,Liverpool,Bolton,3,1,H,1,0,H,L Probert
+27/08/11,Swansea,Sunderland,0,0,D,0,0,D,M Halsey
+27/08/11,Wigan,QPR,2,0,H,1,0,H,M Oliver
+28/08/11,Man United,Arsenal,8,2,H,3,1,H,H Webb
+28/08/11,Newcastle,Fulham,2,1,H,0,0,D,K Friend
+28/08/11,Tottenham,Man City,1,5,A,0,2,A,P Dowd
+28/08/11,West Brom,Stoke,0,1,A,0,0,D,M Dean
+10/09/11,Arsenal,Swansea,1,0,H,1,0,H,S Attwell
+10/09/11,Bolton,Man United,0,5,A,0,3,A,A Marriner
+10/09/11,Everton,Aston Villa,2,2,D,1,0,H,M Oliver
+10/09/11,Man City,Wigan,3,0,H,1,0,H,M Atkinson
+10/09/11,Stoke,Liverpool,1,0,H,1,0,H,M Clattenburg
+10/09/11,Sunderland,Chelsea,1,2,A,0,1,A,L Probert
+10/09/11,Wolves,Tottenham,0,2,A,0,0,D,P Walton
+11/09/11,Fulham,Blackburn,1,1,D,1,1,D,H Webb
+11/09/11,Norwich,West Brom,0,1,A,0,1,A,M Halsey
+12/09/11,QPR,Newcastle,0,0,D,0,0,D,P Dowd
+17/09/11,Aston Villa,Newcastle,1,1,D,1,0,H,N Swarbrick
+17/09/11,Blackburn,Arsenal,4,3,H,1,2,A,A Marriner
+17/09/11,Bolton,Norwich,1,2,A,0,2,A,H Webb
+17/09/11,Everton,Wigan,3,1,H,1,1,D,P Walton
+17/09/11,Swansea,West Brom,3,0,H,2,0,H,M Atkinson
+17/09/11,Wolves,QPR,0,3,A,0,2,A,A Taylor
+18/09/11,Fulham,Man City,2,2,D,0,1,A,M Clattenburg
+18/09/11,Man United,Chelsea,3,1,H,3,0,H,P Dowd
+18/09/11,Sunderland,Stoke,4,0,H,3,0,H,K Friend
+18/09/11,Tottenham,Liverpool,4,0,H,1,0,H,M Jones
+24/09/11,Arsenal,Bolton,3,0,H,0,0,D,M Clattenburg
+24/09/11,Chelsea,Swansea,4,1,H,2,0,H,M Dean
+24/09/11,Liverpool,Wolves,2,1,H,2,0,H,K Friend
+24/09/11,Man City,Everton,2,0,H,0,0,D,H Webb
+24/09/11,Newcastle,Blackburn,3,1,H,2,1,H,M Atkinson
+24/09/11,Stoke,Man United,1,1,D,0,1,A,P Walton
+24/09/11,West Brom,Fulham,0,0,D,0,0,D,S Attwell
+24/09/11,Wigan,Tottenham,1,2,A,0,2,A,J Moss
+25/09/11,QPR,Aston Villa,1,1,D,0,0,D,M Oliver
+26/09/11,Norwich,Sunderland,2,1,H,1,0,H,C Foy
+01/10/11,Aston Villa,Wigan,2,0,H,1,0,H,M Clattenburg
+01/10/11,Blackburn,Man City,0,4,A,0,0,D,P Dowd
+01/10/11,Everton,Liverpool,0,2,A,0,0,D,M Atkinson
+01/10/11,Man United,Norwich,2,0,H,0,0,D,S Attwell
+01/10/11,Sunderland,West Brom,2,2,D,2,2,D,L Mason
+01/10/11,Wolves,Newcastle,1,2,A,0,2,A,M Halsey
+02/10/11,Bolton,Chelsea,1,5,A,0,4,A,P Walton
+02/10/11,Fulham,QPR,6,0,H,3,0,H,A Marriner
+02/10/11,Swansea,Stoke,2,0,H,1,0,H,M Jones
+02/10/11,Tottenham,Arsenal,2,1,H,1,0,H,M Dean
+15/10/11,Chelsea,Everton,3,1,H,2,0,H,M Jones
+15/10/11,Liverpool,Man United,1,1,D,0,0,D,A Marriner
+15/10/11,Man City,Aston Villa,4,1,H,1,0,H,A Taylor
+15/10/11,Norwich,Swansea,3,1,H,2,1,H,J Moss
+15/10/11,QPR,Blackburn,1,1,D,1,1,D,M Clattenburg
+15/10/11,Stoke,Fulham,2,0,H,0,0,D,M Atkinson
+15/10/11,Wigan,Bolton,1,3,A,1,2,A,M Dean
+16/10/11,Arsenal,Sunderland,2,1,H,1,1,D,H Webb
+16/10/11,Newcastle,Tottenham,2,2,D,0,1,A,L Probert
+16/10/11,West Brom,Wolves,2,0,H,1,0,H,C Foy
+22/10/11,Aston Villa,West Brom,1,2,A,1,1,D,P Dowd
+22/10/11,Bolton,Sunderland,0,2,A,0,0,D,M Jones
+22/10/11,Liverpool,Norwich,1,1,D,1,0,H,P Walton
+22/10/11,Newcastle,Wigan,1,0,H,0,0,D,N Swarbrick
+22/10/11,Wolves,Swansea,2,2,D,0,2,A,M Oliver
+23/10/11,Arsenal,Stoke,3,1,H,1,1,D,L Mason
+23/10/11,Blackburn,Tottenham,1,2,A,1,1,D,S Attwell
+23/10/11,Fulham,Everton,1,3,A,0,1,A,L Probert
+23/10/11,Man United,Man City,1,6,A,0,1,A,M Clattenburg
+23/10/11,QPR,Chelsea,1,0,H,1,0,H,C Foy
+29/10/11,Chelsea,Arsenal,3,5,A,2,1,H,A Marriner
+29/10/11,Everton,Man United,0,1,A,0,1,A,M Halsey
+29/10/11,Man City,Wolves,3,1,H,0,0,D,S Attwell
+29/10/11,Norwich,Blackburn,3,3,D,0,1,A,A Taylor
+29/10/11,Sunderland,Aston Villa,2,2,D,1,1,D,C Foy
+29/10/11,Swansea,Bolton,3,1,H,0,0,D,M Clattenburg
+29/10/11,West Brom,Liverpool,0,2,A,0,2,A,L Mason
+29/10/11,Wigan,Fulham,0,2,A,0,1,A,M Jones
+30/10/11,Tottenham,QPR,3,1,H,2,0,H,H Webb
+31/10/11,Stoke,Newcastle,1,3,A,0,2,A,M Dean
+05/11/11,Arsenal,West Brom,3,0,H,2,0,H,M Oliver
+05/11/11,Aston Villa,Norwich,3,2,H,1,1,D,K Friend
+05/11/11,Blackburn,Chelsea,0,1,A,0,0,D,M Dean
+05/11/11,Liverpool,Swansea,0,0,D,0,0,D,P Dowd
+05/11/11,Man United,Sunderland,1,0,H,1,0,H,L Mason
+05/11/11,Newcastle,Everton,2,1,H,2,1,H,A Marriner
+05/11/11,QPR,Man City,2,3,A,1,1,D,M Atkinson
+06/11/11,Bolton,Stoke,5,0,H,2,0,H,H Webb
+06/11/11,Fulham,Tottenham,1,3,A,0,2,A,P Walton
+06/11/11,Wolves,Wigan,3,1,H,1,1,D,L Probert
+19/11/11,Everton,Wolves,2,1,H,1,1,D,J Moss
+19/11/11,Man City,Newcastle,3,1,H,2,0,H,C Foy
+19/11/11,Norwich,Arsenal,1,2,A,1,1,D,P Dowd
+19/11/11,Stoke,QPR,2,3,A,1,2,A,M Jones
+19/11/11,Sunderland,Fulham,0,0,D,0,0,D,A Taylor
+19/11/11,Swansea,Man United,0,1,A,0,1,A,M Dean
+19/11/11,West Brom,Bolton,2,1,H,1,1,D,N Swarbrick
+19/11/11,Wigan,Blackburn,3,3,D,2,1,H,A Marriner
+20/11/11,Chelsea,Liverpool,1,2,A,0,1,A,L Probert
+21/11/11,Tottenham,Aston Villa,2,0,H,2,0,H,M Halsey
+26/11/11,Arsenal,Fulham,1,1,D,0,0,D,M Dean
+26/11/11,Bolton,Everton,0,2,A,0,0,D,M Oliver
+26/11/11,Chelsea,Wolves,3,0,H,3,0,H,L Mason
+26/11/11,Man United,Newcastle,1,1,D,0,0,D,M Jones
+26/11/11,Norwich,QPR,2,1,H,1,0,H,M Clattenburg
+26/11/11,Stoke,Blackburn,3,1,H,1,0,H,M Halsey
+26/11/11,Sunderland,Wigan,1,2,A,1,1,D,K Friend
+26/11/11,West Brom,Tottenham,1,3,A,1,1,D,L Probert
+27/11/11,Liverpool,Man City,1,1,D,1,1,D,M Atkinson
+27/11/11,Swansea,Aston Villa,0,0,D,0,0,D,N Swarbrick
+03/12/11,Aston Villa,Man United,0,1,A,0,1,A,L Probert
+03/12/11,Blackburn,Swansea,4,2,H,2,1,H,C Foy
+03/12/11,Man City,Norwich,5,1,H,1,0,H,H Webb
+03/12/11,Newcastle,Chelsea,0,3,A,0,1,A,M Dean
+03/12/11,QPR,West Brom,1,1,D,1,0,H,M Atkinson
+03/12/11,Tottenham,Bolton,3,0,H,1,0,H,S Attwell
+03/12/11,Wigan,Arsenal,0,4,A,0,2,A,M Clattenburg
+04/12/11,Everton,Stoke,0,1,A,0,1,A,L Mason
+04/12/11,Wolves,Sunderland,2,1,H,0,0,D,P Dowd
+05/12/11,Fulham,Liverpool,1,0,H,0,0,D,K Friend
+10/12/11,Arsenal,Everton,1,0,H,0,0,D,H Webb
+10/12/11,Bolton,Aston Villa,1,2,A,0,2,A,P Dowd
+10/12/11,Liverpool,QPR,1,0,H,0,0,D,L Mason
+10/12/11,Man United,Wolves,4,1,H,2,0,H,M Oliver
+10/12/11,Norwich,Newcastle,4,2,H,1,1,D,M Atkinson
+10/12/11,Swansea,Fulham,2,0,H,0,0,D,J Moss
+10/12/11,West Brom,Wigan,1,2,A,1,1,D,M Dean
+11/12/11,Stoke,Tottenham,2,1,H,2,0,H,C Foy
+11/12/11,Sunderland,Blackburn,2,1,H,0,1,A,P Walton
+12/12/11,Chelsea,Man City,2,1,H,1,1,D,M Clattenburg
+17/12/11,Blackburn,West Brom,1,2,A,0,0,D,M Clattenburg
+17/12/11,Everton,Norwich,1,1,D,0,1,A,L Probert
+17/12/11,Fulham,Bolton,2,0,H,2,0,H,C Foy
+17/12/11,Newcastle,Swansea,0,0,D,0,0,D,L Mason
+17/12/11,Wigan,Chelsea,1,1,D,0,0,D,M Atkinson
+17/12/11,Wolves,Stoke,1,2,A,1,0,H,A Taylor
+18/12/11,Aston Villa,Liverpool,0,2,A,0,2,A,P Walton
+18/12/11,Man City,Arsenal,1,0,H,0,0,D,P Dowd
+18/12/11,QPR,Man United,0,2,A,0,1,A,H Webb
+18/12/11,Tottenham,Sunderland,1,0,H,0,0,D,M Dean
+20/12/11,Blackburn,Bolton,1,2,A,0,2,A,M Atkinson
+20/12/11,Wolves,Norwich,2,2,D,1,1,D,C Foy
+21/12/11,Aston Villa,Arsenal,1,2,A,0,1,A,J Moss
+21/12/11,Everton,Swansea,1,0,H,0,0,D,K Friend
+21/12/11,Fulham,Man United,0,5,A,0,3,A,M Halsey
+21/12/11,Man City,Stoke,3,0,H,2,0,H,M Dean
+21/12/11,Newcastle,West Brom,2,3,A,1,2,A,A Taylor
+21/12/11,QPR,Sunderland,2,3,A,0,1,A,A Marriner
+21/12/11,Wigan,Liverpool,0,0,D,0,0,D,M Oliver
+22/12/11,Tottenham,Chelsea,1,1,D,1,1,D,H Webb
+26/12/11,Bolton,Newcastle,0,2,A,0,0,D,P Walton
+26/12/11,Chelsea,Fulham,1,1,D,0,0,D,K Friend
+26/12/11,Liverpool,Blackburn,1,1,D,0,1,A,M Jones
+26/12/11,Man United,Wigan,5,0,H,2,0,H,P Dowd
+26/12/11,Stoke,Aston Villa,0,0,D,0,0,D,M Clattenburg
+26/12/11,Sunderland,Everton,1,1,D,1,0,H,H Webb
+26/12/11,West Brom,Man City,0,0,D,0,0,D,L Mason
+27/12/11,Arsenal,Wolves,1,1,D,1,1,D,S Attwell
+27/12/11,Norwich,Tottenham,0,2,A,0,0,D,M Oliver
+27/12/11,Swansea,QPR,1,1,D,1,0,H,L Probert
+30/12/11,Liverpool,Newcastle,3,1,H,1,1,D,L Probert
+31/12/11,Arsenal,QPR,1,0,H,0,0,D,M Atkinson
+31/12/11,Bolton,Wolves,1,1,D,1,0,H,M Clattenburg
+31/12/11,Chelsea,Aston Villa,1,3,A,1,1,D,M Halsey
+31/12/11,Man United,Blackburn,2,3,A,0,1,A,M Dean
+31/12/11,Norwich,Fulham,1,1,D,0,1,A,H Webb
+31/12/11,Stoke,Wigan,2,2,D,0,1,A,M Oliver
+31/12/11,Swansea,Tottenham,1,1,D,0,1,A,P Dowd
+01/01/12,Sunderland,Man City,1,0,H,0,0,D,K Friend
+01/01/12,West Brom,Everton,0,1,A,0,0,D,S Attwell
+02/01/12,Aston Villa,Swansea,0,2,A,0,1,A,A Taylor
+02/01/12,Blackburn,Stoke,1,2,A,0,2,A,L Mason
+02/01/12,Fulham,Arsenal,2,1,H,0,1,A,L Probert
+02/01/12,QPR,Norwich,1,2,A,1,1,D,N Swarbrick
+02/01/12,Wolves,Chelsea,1,2,A,0,0,D,P Walton
+03/01/12,Man City,Liverpool,3,0,H,2,0,H,M Jones
+03/01/12,Tottenham,West Brom,1,0,H,0,0,D,M Halsey
+03/01/12,Wigan,Sunderland,1,4,A,0,1,A,M Dean
+04/01/12,Everton,Bolton,1,2,A,0,0,D,P Dowd
+04/01/12,Newcastle,Man United,3,0,H,1,0,H,H Webb
+11/01/12,Tottenham,Everton,2,0,H,1,0,H,M Atkinson
+14/01/12,Aston Villa,Everton,1,1,D,0,0,D,M Clattenburg
+14/01/12,Blackburn,Fulham,3,1,H,1,0,H,A Taylor
+14/01/12,Chelsea,Sunderland,1,0,H,1,0,H,P Dowd
+14/01/12,Liverpool,Stoke,0,0,D,0,0,D,H Webb
+14/01/12,Man United,Bolton,3,0,H,1,0,H,P Walton
+14/01/12,Tottenham,Wolves,1,1,D,0,1,A,M Jones
+14/01/12,West Brom,Norwich,1,2,A,0,1,A,M Dean
+15/01/12,Newcastle,QPR,1,0,H,1,0,H,C Foy
+15/01/12,Swansea,Arsenal,3,2,H,1,1,D,M Oliver
+16/01/12,Wigan,Man City,0,1,A,0,1,A,M Atkinson
+21/01/12,Bolton,Liverpool,3,1,H,2,1,H,K Friend
+21/01/12,Everton,Blackburn,1,1,D,1,0,H,M Halsey
+21/01/12,Fulham,Newcastle,5,2,H,0,1,A,L Mason
+21/01/12,Norwich,Chelsea,0,0,D,0,0,D,M Clattenburg
+21/01/12,QPR,Wigan,3,1,H,2,0,H,J Moss
+21/01/12,Stoke,West Brom,1,2,A,0,1,A,A Taylor
+21/01/12,Sunderland,Swansea,2,0,H,1,0,H,C Foy
+21/01/12,Wolves,Aston Villa,2,3,A,2,1,H,M Oliver
+22/01/12,Arsenal,Man United,1,2,A,0,1,A,M Dean
+22/01/12,Man City,Tottenham,3,2,H,0,0,D,H Webb
+31/01/12,Everton,Man City,1,0,H,0,0,D,P Walton
+31/01/12,Man United,Stoke,2,0,H,1,0,H,M Jones
+31/01/12,Swansea,Chelsea,1,1,D,1,0,H,A Marriner
+31/01/12,Tottenham,Wigan,3,1,H,2,0,H,L Probert
+31/01/12,Wolves,Liverpool,0,3,A,0,0,D,A Taylor
+01/02/12,Aston Villa,QPR,2,2,D,1,2,A,N Swarbrick
+01/02/12,Blackburn,Newcastle,0,2,A,0,1,A,P Dowd
+01/02/12,Bolton,Arsenal,0,0,D,0,0,D,C Foy
+01/02/12,Fulham,West Brom,1,1,D,0,0,D,M Halsey
+01/02/12,Sunderland,Norwich,3,0,H,2,0,H,L Mason
+04/02/12,Arsenal,Blackburn,7,1,H,3,1,H,A Marriner
+04/02/12,Man City,Fulham,3,0,H,2,0,H,M Dean
+04/02/12,Norwich,Bolton,2,0,H,0,0,D,L Probert
+04/02/12,QPR,Wolves,1,2,A,1,0,H,M Clattenburg
+04/02/12,Stoke,Sunderland,0,1,A,0,0,D,M Atkinson
+04/02/12,West Brom,Swansea,1,2,A,0,0,D,J Moss
+04/02/12,Wigan,Everton,1,1,D,0,0,D,A Taylor
+05/02/12,Chelsea,Man United,3,3,D,1,0,H,H Webb
+05/02/12,Newcastle,Aston Villa,2,1,H,1,1,D,M Halsey
+06/02/12,Liverpool,Tottenham,0,0,D,0,0,D,M Oliver
+11/02/12,Blackburn,QPR,3,2,H,3,0,H,M Dean
+11/02/12,Bolton,Wigan,1,2,A,0,1,A,H Webb
+11/02/12,Everton,Chelsea,2,0,H,1,0,H,M Jones
+11/02/12,Fulham,Stoke,2,1,H,2,0,H,C Foy
+11/02/12,Man United,Liverpool,2,1,H,0,0,D,P Dowd
+11/02/12,Sunderland,Arsenal,1,2,A,0,0,D,N Swarbrick
+11/02/12,Swansea,Norwich,2,3,A,1,0,H,M Atkinson
+11/02/12,Tottenham,Newcastle,5,0,H,4,0,H,A Marriner
+12/02/12,Aston Villa,Man City,0,1,A,0,0,D,M Oliver
+12/02/12,Wolves,West Brom,1,5,A,1,1,D,L Mason
+25/02/12,Chelsea,Bolton,3,0,H,0,0,D,M Oliver
+25/02/12,Man City,Blackburn,3,0,H,1,0,H,M Jones
+25/02/12,Newcastle,Wolves,2,2,D,2,0,H,P Walton
+25/02/12,QPR,Fulham,0,1,A,0,1,A,P Dowd
+25/02/12,West Brom,Sunderland,4,0,H,2,0,H,C Foy
+25/02/12,Wigan,Aston Villa,0,0,D,0,0,D,K Friend
+26/02/12,Arsenal,Tottenham,5,2,H,2,2,D,M Dean
+26/02/12,Norwich,Man United,1,2,A,0,1,A,A Marriner
+26/02/12,Stoke,Swansea,2,0,H,2,0,H,H Webb
+03/03/12,Blackburn,Aston Villa,1,1,D,0,1,A,H Webb
+03/03/12,Liverpool,Arsenal,1,2,A,1,1,D,M Halsey
+03/03/12,Man City,Bolton,2,0,H,1,0,H,M Clattenburg
+03/03/12,QPR,Everton,1,1,D,1,1,D,K Friend
+03/03/12,Stoke,Norwich,1,0,H,0,0,D,M Oliver
+03/03/12,West Brom,Chelsea,1,0,H,0,0,D,P Dowd
+03/03/12,Wigan,Swansea,0,2,A,0,1,A,A Marriner
+04/03/12,Fulham,Wolves,5,0,H,2,0,H,M Jones
+04/03/12,Newcastle,Sunderland,1,1,D,0,1,A,M Dean
+04/03/12,Tottenham,Man United,1,3,A,0,1,A,M Atkinson
+10/03/12,Aston Villa,Fulham,1,0,H,0,0,D,J Moss
+10/03/12,Bolton,QPR,2,1,H,1,0,H,M Atkinson
+10/03/12,Chelsea,Stoke,1,0,H,0,0,D,A Marriner
+10/03/12,Everton,Tottenham,1,0,H,1,0,H,M Halsey
+10/03/12,Sunderland,Liverpool,1,0,H,0,0,D,A Taylor
+10/03/12,Wolves,Blackburn,0,2,A,0,1,A,C Foy
+11/03/12,Man United,West Brom,2,0,H,1,0,H,L Probert
+11/03/12,Norwich,Wigan,1,1,D,1,0,H,K Friend
+11/03/12,Swansea,Man City,1,0,H,0,0,D,L Mason
+12/03/12,Arsenal,Newcastle,2,1,H,1,1,D,H Webb
+13/03/12,Liverpool,Everton,3,0,H,1,0,H,P Dowd
+17/03/12,Fulham,Swansea,0,3,A,0,1,A,M Halsey
+17/03/12,Wigan,West Brom,1,1,D,0,0,D,M Oliver
+18/03/12,Newcastle,Norwich,1,0,H,1,0,H,P Dowd
+18/03/12,Wolves,Man United,0,5,A,0,3,A,A Taylor
+20/03/12,Blackburn,Sunderland,2,0,H,0,0,D,M Atkinson
+21/03/12,Everton,Arsenal,0,1,A,0,1,A,L Mason
+21/03/12,Man City,Chelsea,2,1,H,0,0,D,M Dean
+21/03/12,QPR,Liverpool,3,2,H,0,0,D,H Webb
+21/03/12,Tottenham,Stoke,1,1,D,0,0,D,M Jones
+24/03/12,Arsenal,Aston Villa,3,0,H,2,0,H,P Dowd
+24/03/12,Bolton,Blackburn,2,1,H,2,0,H,A Marriner
+24/03/12,Chelsea,Tottenham,0,0,D,0,0,D,M Atkinson
+24/03/12,Liverpool,Wigan,1,2,A,0,1,A,L Mason
+24/03/12,Norwich,Wolves,2,1,H,2,1,H,M Clattenburg
+24/03/12,Stoke,Man City,1,1,D,0,0,D,H Webb
+24/03/12,Sunderland,QPR,3,1,H,1,0,H,M Jones
+24/03/12,Swansea,Everton,0,2,A,0,0,D,N Swarbrick
+25/03/12,West Brom,Newcastle,1,3,A,0,3,A,C Foy
+26/03/12,Man United,Fulham,1,0,H,1,0,H,M Oliver
+31/03/12,Aston Villa,Chelsea,2,4,A,0,1,A,L Mason
+31/03/12,Everton,West Brom,2,0,H,1,0,H,P Walton
+31/03/12,Fulham,Norwich,2,1,H,2,0,H,A Taylor
+31/03/12,Man City,Sunderland,3,3,D,1,2,A,P Dowd
+31/03/12,QPR,Arsenal,2,1,H,1,1,D,M Dean
+31/03/12,Wigan,Stoke,2,0,H,0,0,D,M Clattenburg
+31/03/12,Wolves,Bolton,2,3,A,0,0,D,J Moss
+01/04/12,Newcastle,Liverpool,2,0,H,1,0,H,M Atkinson
+01/04/12,Tottenham,Swansea,3,1,H,1,0,H,A Marriner
+02/04/12,Blackburn,Man United,0,2,A,0,0,D,H Webb
+06/04/12,Swansea,Newcastle,0,2,A,0,1,A,H Webb
+07/04/12,Bolton,Fulham,0,3,A,0,2,A,M Dean
+07/04/12,Chelsea,Wigan,2,1,H,0,0,D,M Jones
+07/04/12,Liverpool,Aston Villa,1,1,D,0,1,A,M Oliver
+07/04/12,Norwich,Everton,2,2,D,1,1,D,A Marriner
+07/04/12,Stoke,Wolves,2,1,H,1,1,D,M Halsey
+07/04/12,Sunderland,Tottenham,0,0,D,0,0,D,C Foy
+07/04/12,West Brom,Blackburn,3,0,H,1,0,H,L Probert
+08/04/12,Arsenal,Man City,1,0,H,0,0,D,M Atkinson
+08/04/12,Man United,QPR,2,0,H,1,0,H,L Mason
+09/04/12,Aston Villa,Stoke,1,1,D,1,0,H,M Dean
+09/04/12,Everton,Sunderland,4,0,H,0,0,D,K Friend
+09/04/12,Fulham,Chelsea,1,1,D,0,1,A,M Clattenburg
+09/04/12,Newcastle,Bolton,2,0,H,0,0,D,M Jones
+09/04/12,Tottenham,Norwich,1,2,A,1,1,D,M Oliver
+10/04/12,Blackburn,Liverpool,2,3,A,1,2,A,A Taylor
+11/04/12,Man City,West Brom,4,0,H,1,0,H,K Friend
+11/04/12,QPR,Swansea,3,0,H,1,0,H,L Probert
+11/04/12,Wigan,Man United,1,0,H,0,0,D,P Dowd
+11/04/12,Wolves,Arsenal,0,3,A,0,2,A,N Swarbrick
+14/04/12,Norwich,Man City,1,6,A,0,2,A,C Foy
+14/04/12,Sunderland,Wolves,0,0,D,0,0,D,M Jones
+14/04/12,Swansea,Blackburn,3,0,H,2,0,H,M Clattenburg
+14/04/12,West Brom,QPR,1,0,H,1,0,H,J Moss
+15/04/12,Man United,Aston Villa,4,0,H,2,0,H,M Halsey
+16/04/12,Arsenal,Wigan,1,2,A,1,2,A,A Marriner
+21/04/12,Arsenal,Chelsea,0,0,D,0,0,D,M Dean
+21/04/12,Aston Villa,Sunderland,0,0,D,0,0,D,A Taylor
+21/04/12,Blackburn,Norwich,2,0,H,1,0,H,K Friend
+21/04/12,Bolton,Swansea,1,1,D,1,1,D,P Dowd
+21/04/12,Fulham,Wigan,2,1,H,0,0,D,L Mason
+21/04/12,Newcastle,Stoke,3,0,H,2,0,H,A Marriner
+21/04/12,QPR,Tottenham,1,0,H,1,0,H,M Clattenburg
+22/04/12,Liverpool,West Brom,0,1,A,0,0,D,N Swarbrick
+22/04/12,Man United,Everton,4,4,D,1,1,D,M Jones
+22/04/12,Wolves,Man City,0,2,A,0,1,A,L Probert
+24/04/12,Aston Villa,Bolton,1,2,A,0,0,D,C Foy
+28/04/12,Everton,Fulham,4,0,H,3,0,H,P Dowd
+28/04/12,Norwich,Liverpool,0,3,A,0,2,A,M Halsey
+28/04/12,Stoke,Arsenal,1,1,D,1,1,D,C Foy
+28/04/12,Sunderland,Bolton,2,2,D,1,1,D,L Probert
+28/04/12,Swansea,Wolves,4,4,D,4,2,H,J Moss
+28/04/12,West Brom,Aston Villa,0,0,D,0,0,D,M Clattenburg
+28/04/12,Wigan,Newcastle,4,0,H,4,0,H,M Dean
+29/04/12,Chelsea,QPR,6,1,H,4,0,H,H Webb
+29/04/12,Tottenham,Blackburn,2,0,H,1,0,H,M Jones
+30/04/12,Man City,Man United,1,0,H,1,0,H,A Marriner
+01/05/12,Liverpool,Fulham,0,1,A,0,1,A,L Probert
+01/05/12,Stoke,Everton,1,1,D,0,1,A,A Taylor
+02/05/12,Bolton,Tottenham,1,4,A,0,1,A,M Dean
+02/05/12,Chelsea,Newcastle,0,2,A,0,1,A,M Halsey
+05/05/12,Arsenal,Norwich,3,3,D,1,2,A,A Taylor
+06/05/12,Aston Villa,Tottenham,1,1,D,1,0,H,L Probert
+06/05/12,Bolton,West Brom,2,2,D,1,0,H,K Friend
+06/05/12,Fulham,Sunderland,2,1,H,2,1,H,M Atkinson
+06/05/12,Man United,Swansea,2,0,H,2,0,H,C Foy
+06/05/12,Newcastle,Man City,0,2,A,0,0,D,H Webb
+06/05/12,QPR,Stoke,1,0,H,0,0,D,A Marriner
+06/05/12,Wolves,Everton,0,0,D,0,0,D,L Mason
+07/05/12,Blackburn,Wigan,0,1,A,0,0,D,M Clattenburg
+08/05/12,Liverpool,Chelsea,4,1,H,3,0,H,K Friend
+13/05/12,Chelsea,Blackburn,2,1,H,2,0,H,L Mason
+13/05/12,Everton,Newcastle,3,1,H,2,0,H,A Marriner
+13/05/12,Man City,QPR,3,2,H,1,0,H,M Dean
+13/05/12,Norwich,Aston Villa,2,0,H,2,0,H,M Atkinson
+13/05/12,Stoke,Bolton,2,2,D,1,2,A,C Foy
+13/05/12,Sunderland,Man United,0,1,A,0,1,A,H Webb
+13/05/12,Swansea,Liverpool,1,0,H,0,0,D,M Halsey
+13/05/12,Tottenham,Fulham,2,0,H,1,0,H,P Dowd
+13/05/12,West Brom,Arsenal,2,3,A,2,2,D,M Jones
+13/05/12,Wigan,Wolves,3,2,H,2,1,H,M Oliver

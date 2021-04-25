@@ -1,0 +1,381 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HTHG,HTAG,HTR,Referee
+11/08/07,Aston Villa,Liverpool,1,2,A,0,1,A,M Riley
+11/08/07,Bolton,Newcastle,1,3,A,0,3,A,C Foy
+11/08/07,Derby,Portsmouth,2,2,D,1,1,D,M Dean
+11/08/07,Everton,Wigan,2,1,H,1,0,H,M Clattenburg
+11/08/07,Middlesbrough,Blackburn,1,2,A,1,0,H,A Marriner
+11/08/07,Sunderland,Tottenham,1,0,H,0,0,D,A Wiley
+11/08/07,West Ham,Man City,0,2,A,0,1,A,P Walton
+12/08/07,Arsenal,Fulham,2,1,H,0,1,A,P Dowd
+12/08/07,Chelsea,Birmingham,3,2,H,2,2,D,S Bennett
+12/08/07,Man United,Reading,0,0,D,0,0,D,R Styles
+14/08/07,Tottenham,Everton,1,3,A,1,3,A,M Halsey
+15/08/07,Birmingham,Sunderland,2,2,D,1,0,H,K Stroud
+15/08/07,Fulham,Bolton,2,1,H,2,1,H,L Probert
+15/08/07,Man City,Derby,1,0,H,1,0,H,L Mason
+15/08/07,Portsmouth,Man United,1,1,D,0,1,A,S Bennett
+15/08/07,Reading,Chelsea,1,2,A,1,0,H,M Dean
+15/08/07,Wigan,Middlesbrough,1,0,H,0,0,D,S Tanner
+18/08/07,Birmingham,West Ham,0,1,A,0,0,D,M Halsey
+18/08/07,Fulham,Middlesbrough,1,2,A,1,0,H,L Mason
+18/08/07,Newcastle,Aston Villa,0,0,D,0,0,D,H Webb
+18/08/07,Portsmouth,Bolton,3,1,H,2,1,H,S Tanner
+18/08/07,Reading,Everton,1,0,H,1,0,H,S Bennett
+18/08/07,Tottenham,Derby,4,0,H,3,0,H,C Foy
+18/08/07,Wigan,Sunderland,3,0,H,1,0,H,M Riley
+19/08/07,Blackburn,Arsenal,1,1,D,0,1,A,A Wiley
+19/08/07,Liverpool,Chelsea,1,1,D,1,0,H,R Styles
+19/08/07,Man City,Man United,1,0,H,1,0,H,M Clattenburg
+25/08/07,Arsenal,Man City,1,0,H,0,0,D,C Foy
+25/08/07,Aston Villa,Fulham,2,1,H,0,1,A,S Bennett
+25/08/07,Bolton,Reading,3,0,H,1,0,H,M Clattenburg
+25/08/07,Chelsea,Portsmouth,1,0,H,1,0,H,A Wiley
+25/08/07,Derby,Birmingham,1,2,A,0,1,A,L Probert
+25/08/07,Everton,Blackburn,1,1,D,0,1,A,M Riley
+25/08/07,Sunderland,Liverpool,0,2,A,0,1,A,M Halsey
+25/08/07,West Ham,Wigan,1,1,D,0,0,D,A Marriner
+26/08/07,Man United,Tottenham,1,0,H,0,0,D,H Webb
+26/08/07,Middlesbrough,Newcastle,2,2,D,1,1,D,M Dean
+01/09/07,Bolton,Everton,1,2,A,0,1,A,P Walton
+01/09/07,Fulham,Tottenham,3,3,D,1,2,A,M Riley
+01/09/07,Liverpool,Derby,6,0,H,2,0,H,A Wiley
+01/09/07,Man United,Sunderland,1,0,H,0,0,D,M Atkinson
+01/09/07,Middlesbrough,Birmingham,2,0,H,2,0,H,R Styles
+01/09/07,Newcastle,Wigan,1,0,H,0,0,D,S Bennett
+01/09/07,Reading,West Ham,0,3,A,0,1,A,H Webb
+02/09/07,Arsenal,Portsmouth,3,1,H,2,0,H,M Halsey
+02/09/07,Aston Villa,Chelsea,2,0,H,0,0,D,M Clattenburg
+02/09/07,Blackburn,Man City,1,0,H,1,0,H,M Dean
+15/09/07,Birmingham,Bolton,1,0,H,1,0,H,P Dowd
+15/09/07,Chelsea,Blackburn,0,0,D,0,0,D,H Webb
+15/09/07,Everton,Man United,0,1,A,0,0,D,A Wiley
+15/09/07,Portsmouth,Liverpool,0,0,D,0,0,D,M Riley
+15/09/07,Sunderland,Reading,2,1,H,1,0,H,S Tanner
+15/09/07,Tottenham,Arsenal,1,3,A,1,0,H,M Clattenburg
+15/09/07,West Ham,Middlesbrough,3,0,H,0,0,D,S Bennett
+15/09/07,Wigan,Fulham,1,1,D,0,1,A,R Styles
+16/09/07,Man City,Aston Villa,1,0,H,0,0,D,M Atkinson
+17/09/07,Derby,Newcastle,1,0,H,1,0,H,P Walton
+22/09/07,Arsenal,Derby,5,0,H,2,0,H,M Atkinson
+22/09/07,Fulham,Man City,3,3,D,1,1,D,M Halsey
+22/09/07,Liverpool,Birmingham,0,0,D,0,0,D,L Mason
+22/09/07,Middlesbrough,Sunderland,2,2,D,1,1,D,H Webb
+22/09/07,Reading,Wigan,2,1,H,1,0,H,K Stroud
+23/09/07,Aston Villa,Everton,2,0,H,1,0,H,L Probert
+23/09/07,Blackburn,Portsmouth,0,1,A,0,1,A,C Foy
+23/09/07,Bolton,Tottenham,1,1,D,1,1,D,A Marriner
+23/09/07,Man United,Chelsea,2,0,H,1,0,H,M Dean
+23/09/07,Newcastle,West Ham,3,1,H,2,1,H,M Riley
+29/09/07,Birmingham,Man United,0,1,A,0,0,D,S Bennett
+29/09/07,Chelsea,Fulham,0,0,D,0,0,D,M Atkinson
+29/09/07,Derby,Bolton,1,1,D,1,1,D,R Styles
+29/09/07,Man City,Newcastle,3,1,H,1,1,D,C Foy
+29/09/07,Portsmouth,Reading,7,4,H,2,1,H,M Halsey
+29/09/07,Sunderland,Blackburn,1,2,A,0,0,D,P Walton
+29/09/07,West Ham,Arsenal,0,1,A,0,1,A,A Wiley
+29/09/07,Wigan,Liverpool,0,1,A,0,0,D,M Clattenburg
+30/09/07,Everton,Middlesbrough,2,0,H,1,0,H,M Riley
+01/10/07,Tottenham,Aston Villa,4,4,D,1,3,A,M Dean
+06/10/07,Aston Villa,West Ham,1,0,H,1,0,H,S Tanner
+06/10/07,Man United,Wigan,4,0,H,0,0,D,M Riley
+07/10/07,Arsenal,Sunderland,3,2,H,2,1,H,R Styles
+07/10/07,Blackburn,Birmingham,2,1,H,1,0,H,M Clattenburg
+07/10/07,Bolton,Chelsea,0,1,A,0,1,A,A Wiley
+07/10/07,Fulham,Portsmouth,0,2,A,0,0,D,H Webb
+07/10/07,Liverpool,Tottenham,2,2,D,1,1,D,M Halsey
+07/10/07,Man City,Middlesbrough,3,1,H,2,0,H,S Bennett
+07/10/07,Newcastle,Everton,3,2,H,1,0,H,M Atkinson
+07/10/07,Reading,Derby,1,0,H,0,0,D,L Mason
+20/10/07,Arsenal,Bolton,2,0,H,0,0,D,M Riley
+20/10/07,Aston Villa,Man United,1,4,A,1,3,A,R Styles
+20/10/07,Blackburn,Reading,4,2,H,3,0,H,A Marriner
+20/10/07,Everton,Liverpool,1,2,A,1,0,H,M Clattenburg
+20/10/07,Fulham,Derby,0,0,D,0,0,D,P Dowd
+20/10/07,Man City,Birmingham,1,0,H,1,0,H,M Dean
+20/10/07,Middlesbrough,Chelsea,0,2,A,0,1,A,M Halsey
+20/10/07,Wigan,Portsmouth,0,2,A,0,0,D,P Walton
+21/10/07,West Ham,Sunderland,3,1,H,1,0,H,C Foy
+22/10/07,Newcastle,Tottenham,3,1,H,1,0,H,S Bennett
+27/10/07,Birmingham,Wigan,3,2,H,1,1,D,S Tanner
+27/10/07,Chelsea,Man City,6,0,H,2,0,H,M Riley
+27/10/07,Man United,Middlesbrough,4,1,H,2,1,H,A Wiley
+27/10/07,Portsmouth,West Ham,0,0,D,0,0,D,M Dean
+27/10/07,Reading,Newcastle,2,1,H,0,0,D,P Dowd
+27/10/07,Sunderland,Fulham,1,1,D,0,1,A,A Marriner
+28/10/07,Bolton,Aston Villa,1,1,D,1,0,H,M Atkinson
+28/10/07,Derby,Everton,0,2,A,0,1,A,S Bennett
+28/10/07,Liverpool,Arsenal,1,1,D,1,0,H,H Webb
+28/10/07,Tottenham,Blackburn,1,2,A,0,0,D,R Styles
+03/11/07,Arsenal,Man United,2,2,D,0,1,A,H Webb
+03/11/07,Aston Villa,Derby,2,0,H,0,0,D,M Halsey
+03/11/07,Blackburn,Liverpool,0,0,D,0,0,D,M Atkinson
+03/11/07,Everton,Birmingham,3,1,H,1,0,H,M Riley
+03/11/07,Fulham,Reading,3,1,H,1,0,H,M Clattenburg
+03/11/07,Middlesbrough,Tottenham,1,1,D,0,1,A,M Dean
+03/11/07,Newcastle,Portsmouth,1,4,A,1,3,A,C Foy
+03/11/07,Wigan,Chelsea,0,2,A,0,2,A,S Bennett
+04/11/07,West Ham,Bolton,1,1,D,1,0,H,P Walton
+05/11/07,Man City,Sunderland,1,0,H,0,0,D,A Wiley
+10/11/07,Derby,West Ham,0,5,A,0,1,A,M Clattenburg
+10/11/07,Liverpool,Fulham,2,0,H,0,0,D,S Tanner
+10/11/07,Sunderland,Newcastle,1,1,D,0,0,D,M Atkinson
+11/11/07,Birmingham,Aston Villa,1,2,A,0,1,A,S Bennett
+11/11/07,Bolton,Middlesbrough,0,0,D,0,0,D,L Probert
+11/11/07,Chelsea,Everton,1,1,D,0,0,D,A Wiley
+11/11/07,Man United,Blackburn,2,0,H,2,0,H,C Foy
+11/11/07,Portsmouth,Man City,0,0,D,0,0,D,M Halsey
+11/11/07,Tottenham,Wigan,4,0,H,3,0,H,H Webb
+12/11/07,Reading,Arsenal,1,3,A,0,1,A,R Styles
+24/11/07,Arsenal,Wigan,2,0,H,0,0,D,P Walton
+24/11/07,Birmingham,Portsmouth,0,2,A,0,1,A,M Atkinson
+24/11/07,Bolton,Man United,1,0,H,1,0,H,M Clattenburg
+24/11/07,Derby,Chelsea,0,2,A,0,1,A,A Marriner
+24/11/07,Everton,Sunderland,7,1,H,3,1,H,P Dowd
+24/11/07,Man City,Reading,2,1,H,1,1,D,S Tanner
+24/11/07,Middlesbrough,Aston Villa,0,3,A,0,1,A,K Stroud
+24/11/07,Newcastle,Liverpool,0,3,A,0,1,A,A Wiley
+25/11/07,Fulham,Blackburn,2,2,D,0,0,D,M Dean
+25/11/07,West Ham,Tottenham,1,1,D,1,0,H,M Riley
+28/11/07,Blackburn,Aston Villa,0,4,A,0,1,A,P Dowd
+01/12/07,Aston Villa,Arsenal,1,2,A,1,2,A,C Foy
+01/12/07,Blackburn,Newcastle,3,1,H,0,0,D,M Atkinson
+01/12/07,Chelsea,West Ham,1,0,H,0,0,D,H Webb
+01/12/07,Portsmouth,Everton,0,0,D,0,0,D,P Walton
+01/12/07,Reading,Middlesbrough,1,1,D,0,0,D,A Wiley
+01/12/07,Sunderland,Derby,1,0,H,0,0,D,M Halsey
+01/12/07,Wigan,Man City,1,1,D,1,1,D,M Riley
+02/12/07,Liverpool,Bolton,4,0,H,2,0,H,S Bennett
+02/12/07,Tottenham,Birmingham,2,3,A,0,1,A,P Dowd
+03/12/07,Man United,Fulham,2,0,H,1,0,H,R Styles
+05/12/07,Newcastle,Arsenal,1,1,D,0,1,A,M Dean
+08/12/07,Aston Villa,Portsmouth,1,3,A,0,2,A,M Riley
+08/12/07,Chelsea,Sunderland,2,0,H,1,0,H,P Walton
+08/12/07,Everton,Fulham,3,0,H,0,0,D,S Bennett
+08/12/07,Man United,Derby,4,1,H,2,0,H,C Foy
+08/12/07,Newcastle,Birmingham,2,1,H,1,1,D,R Styles
+08/12/07,Reading,Liverpool,3,1,H,1,1,D,A Marriner
+09/12/07,Blackburn,West Ham,0,1,A,0,0,D,A Wiley
+09/12/07,Bolton,Wigan,4,1,H,2,1,H,M Atkinson
+09/12/07,Middlesbrough,Arsenal,2,1,H,1,0,H,H Webb
+09/12/07,Tottenham,Man City,2,1,H,1,0,H,M Halsey
+15/12/07,Birmingham,Reading,1,1,D,1,0,H,L Probert
+15/12/07,Derby,Middlesbrough,0,1,A,0,1,A,R Styles
+15/12/07,Fulham,Newcastle,0,1,A,0,0,D,H Webb
+15/12/07,Man City,Bolton,4,2,H,1,2,A,P Walton
+15/12/07,Portsmouth,Tottenham,0,1,A,0,0,D,M Atkinson
+15/12/07,Sunderland,Aston Villa,1,1,D,1,0,H,S Bennett
+15/12/07,West Ham,Everton,0,2,A,0,1,A,S Tanner
+15/12/07,Wigan,Blackburn,5,3,H,3,1,H,M Clattenburg
+16/12/07,Arsenal,Chelsea,1,0,H,1,0,H,A Wiley
+16/12/07,Liverpool,Man United,0,1,A,0,1,A,M Halsey
+22/12/07,Arsenal,Tottenham,2,1,H,0,0,D,R Styles
+22/12/07,Aston Villa,Man City,1,1,D,1,1,D,L Mason
+22/12/07,Bolton,Birmingham,3,0,H,0,0,D,C Foy
+22/12/07,Fulham,Wigan,1,1,D,0,0,D,A Wiley
+22/12/07,Liverpool,Portsmouth,4,1,H,2,0,H,M Riley
+22/12/07,Middlesbrough,West Ham,1,2,A,1,1,D,M Atkinson
+22/12/07,Reading,Sunderland,2,1,H,0,0,D,S Tanner
+23/12/07,Blackburn,Chelsea,0,1,A,0,1,A,S Bennett
+23/12/07,Man United,Everton,2,1,H,1,1,D,H Webb
+23/12/07,Newcastle,Derby,2,2,D,1,1,D,A Marriner
+26/12/07,Birmingham,Middlesbrough,3,0,H,2,0,H,M Halsey
+26/12/07,Chelsea,Aston Villa,4,4,D,1,2,A,P Dowd
+26/12/07,Derby,Liverpool,1,2,A,0,1,A,A Wiley
+26/12/07,Everton,Bolton,2,0,H,0,0,D,R Styles
+26/12/07,Portsmouth,Arsenal,0,0,D,0,0,D,S Bennett
+26/12/07,Sunderland,Man United,0,4,A,0,3,A,U Rennie
+26/12/07,Tottenham,Fulham,5,1,H,2,0,H,A Marriner
+26/12/07,West Ham,Reading,1,1,D,1,0,H,P Walton
+26/12/07,Wigan,Newcastle,1,0,H,0,0,D,M Dean
+27/12/07,Man City,Blackburn,2,2,D,2,1,H,H Webb
+29/12/07,Birmingham,Fulham,1,1,D,0,1,A,M Clattenburg
+29/12/07,Chelsea,Newcastle,2,1,H,1,0,H,M Riley
+29/12/07,Everton,Arsenal,1,4,A,1,0,H,M Atkinson
+29/12/07,Portsmouth,Middlesbrough,0,1,A,0,1,A,A Wiley
+29/12/07,Sunderland,Bolton,3,1,H,2,1,H,P Dowd
+29/12/07,Tottenham,Reading,6,4,H,1,1,D,K Stroud
+29/12/07,West Ham,Man United,2,1,H,0,1,A,M Dean
+29/12/07,Wigan,Aston Villa,1,2,A,1,0,H,H Webb
+30/12/07,Derby,Blackburn,1,2,A,1,2,A,P Walton
+30/12/07,Man City,Liverpool,0,0,D,0,0,D,U Rennie
+01/01/08,Arsenal,West Ham,2,0,H,2,0,H,C Foy
+01/01/08,Aston Villa,Tottenham,2,1,H,1,0,H,S Tanner
+01/01/08,Fulham,Chelsea,1,2,A,1,0,H,M Halsey
+01/01/08,Man United,Birmingham,1,0,H,1,0,H,P Walton
+01/01/08,Middlesbrough,Everton,0,2,A,0,0,D,M Riley
+01/01/08,Reading,Portsmouth,0,2,A,0,1,A,M Dean
+02/01/08,Blackburn,Sunderland,1,0,H,0,0,D,R Styles
+02/01/08,Bolton,Derby,1,0,H,0,0,D,H Webb
+02/01/08,Liverpool,Wigan,1,1,D,0,0,D,S Bennett
+02/01/08,Newcastle,Man City,0,2,A,0,1,A,M Atkinson
+12/01/08,Arsenal,Birmingham,1,1,D,1,0,H,P Dowd
+12/01/08,Aston Villa,Reading,3,1,H,1,0,H,U Rennie
+12/01/08,Chelsea,Tottenham,2,0,H,1,0,H,A Wiley
+12/01/08,Derby,Wigan,0,1,A,0,0,D,M Clattenburg
+12/01/08,Everton,Man City,1,0,H,1,0,H,M Halsey
+12/01/08,Man United,Newcastle,6,0,H,0,0,D,R Styles
+12/01/08,Middlesbrough,Liverpool,1,1,D,1,0,H,A Marriner
+12/01/08,West Ham,Fulham,2,1,H,1,1,D,M Riley
+13/01/08,Bolton,Blackburn,1,2,A,1,0,H,M Dean
+13/01/08,Sunderland,Portsmouth,2,0,H,2,0,H,C Foy
+19/01/08,Birmingham,Chelsea,0,1,A,0,0,D,R Styles
+19/01/08,Blackburn,Middlesbrough,1,1,D,0,1,A,K Stroud
+19/01/08,Fulham,Arsenal,0,3,A,0,2,A,P Walton
+19/01/08,Newcastle,Bolton,0,0,D,0,0,D,A Wiley
+19/01/08,Portsmouth,Derby,3,1,H,2,1,H,M Dean
+19/01/08,Reading,Man United,0,2,A,0,0,D,S Bennett
+19/01/08,Tottenham,Sunderland,2,0,H,1,0,H,L Mason
+20/01/08,Man City,West Ham,1,1,D,1,1,D,P Dowd
+20/01/08,Wigan,Everton,1,2,A,0,2,A,L Probert
+21/01/08,Liverpool,Aston Villa,2,2,D,1,0,H,M Clattenburg
+26/01/08,Aston Villa,Blackburn,1,1,D,0,0,D,H Webb
+29/01/08,Arsenal,Newcastle,3,0,H,1,0,H,M Riley
+29/01/08,Bolton,Fulham,0,0,D,0,0,D,M Clattenburg
+29/01/08,Middlesbrough,Wigan,1,0,H,1,0,H,R Styles
+29/01/08,Sunderland,Birmingham,2,0,H,1,0,H,M Halsey
+30/01/08,Chelsea,Reading,1,0,H,1,0,H,M Dean
+30/01/08,Derby,Man City,1,1,D,0,0,D,S Bennett
+30/01/08,Everton,Tottenham,0,0,D,0,0,D,A Marriner
+30/01/08,Man United,Portsmouth,2,0,H,2,0,H,M Atkinson
+30/01/08,West Ham,Liverpool,1,0,H,0,0,D,A Wiley
+02/02/08,Birmingham,Derby,1,1,D,0,0,D,P Walton
+02/02/08,Blackburn,Everton,0,0,D,0,0,D,A Wiley
+02/02/08,Liverpool,Sunderland,3,0,H,0,0,D,R Styles
+02/02/08,Man City,Arsenal,1,3,A,1,2,A,A Marriner
+02/02/08,Portsmouth,Chelsea,1,1,D,0,0,D,H Webb
+02/02/08,Reading,Bolton,0,2,A,0,1,A,P Dowd
+02/02/08,Tottenham,Man United,1,1,D,1,0,H,M Clattenburg
+02/02/08,Wigan,West Ham,1,0,H,1,0,H,M Atkinson
+03/02/08,Fulham,Aston Villa,2,1,H,0,0,D,C Foy
+03/02/08,Newcastle,Middlesbrough,1,1,D,0,0,D,M Dean
+09/02/08,Aston Villa,Newcastle,4,1,H,0,1,A,L Mason
+09/02/08,Bolton,Portsmouth,0,1,A,0,0,D,P Walton
+09/02/08,Derby,Tottenham,0,3,A,0,0,D,M Atkinson
+09/02/08,Everton,Reading,1,0,H,0,0,D,M Halsey
+09/02/08,Middlesbrough,Fulham,1,0,H,1,0,H,P Dowd
+09/02/08,Sunderland,Wigan,2,0,H,1,0,H,M Dean
+09/02/08,West Ham,Birmingham,1,1,D,1,1,D,M Clattenburg
+10/02/08,Chelsea,Liverpool,0,0,D,0,0,D,M Riley
+10/02/08,Man United,Man City,1,2,A,0,2,A,H Webb
+11/02/08,Arsenal,Blackburn,2,0,H,1,0,H,S Bennett
+23/02/08,Birmingham,Arsenal,2,2,D,1,0,H,M Dean
+23/02/08,Fulham,West Ham,0,1,A,0,0,D,H Webb
+23/02/08,Liverpool,Middlesbrough,3,2,H,2,1,H,L Mason
+23/02/08,Newcastle,Man United,1,5,A,0,2,A,C Foy
+23/02/08,Portsmouth,Sunderland,1,0,H,0,0,D,P Dowd
+23/02/08,Wigan,Derby,2,0,H,0,0,D,A Wiley
+24/02/08,Blackburn,Bolton,4,1,H,1,0,H,M Clattenburg
+24/02/08,Reading,Aston Villa,1,2,A,0,1,A,M Atkinson
+25/02/08,Man City,Everton,0,2,A,0,2,A,R Styles
+01/03/08,Arsenal,Aston Villa,1,1,D,0,1,A,M Clattenburg
+01/03/08,Birmingham,Tottenham,4,1,H,1,0,H,L Probert
+01/03/08,Derby,Sunderland,0,0,D,0,0,D,M Riley
+01/03/08,Fulham,Man United,0,3,A,0,2,A,M Dean
+01/03/08,Man City,Wigan,0,0,D,0,0,D,S Bennett
+01/03/08,Middlesbrough,Reading,0,1,A,0,0,D,H Webb
+01/03/08,Newcastle,Blackburn,0,1,A,0,0,D,R Styles
+01/03/08,West Ham,Chelsea,0,4,A,0,3,A,P Walton
+02/03/08,Bolton,Liverpool,1,3,A,0,1,A,P Dowd
+02/03/08,Everton,Portsmouth,3,1,H,1,1,D,A Marriner
+05/03/08,Liverpool,West Ham,4,0,H,1,0,H,S Bennett
+08/03/08,Blackburn,Fulham,1,1,D,0,0,D,M Riley
+08/03/08,Liverpool,Newcastle,3,0,H,2,0,H,P Walton
+08/03/08,Reading,Man City,2,0,H,0,0,D,U Rennie
+09/03/08,Sunderland,Everton,0,1,A,0,0,D,A Wiley
+09/03/08,Tottenham,West Ham,4,0,H,2,0,H,C Foy
+09/03/08,Wigan,Arsenal,0,0,D,0,0,D,R Styles
+12/03/08,Aston Villa,Middlesbrough,1,1,D,0,1,A,S Bennett
+12/03/08,Chelsea,Derby,6,1,H,2,0,H,C Foy
+12/03/08,Portsmouth,Birmingham,4,2,H,2,2,D,S Tanner
+15/03/08,Arsenal,Middlesbrough,1,1,D,0,1,A,M Halsey
+15/03/08,Derby,Man United,0,1,A,0,0,D,P Dowd
+15/03/08,Liverpool,Reading,2,1,H,1,1,D,A Marriner
+15/03/08,Portsmouth,Aston Villa,2,0,H,2,0,H,C Foy
+15/03/08,Sunderland,Chelsea,0,1,A,0,1,A,M Dean
+15/03/08,West Ham,Blackburn,2,1,H,1,1,D,M Atkinson
+16/03/08,Fulham,Everton,1,0,H,0,0,D,S Bennett
+16/03/08,Man City,Tottenham,2,1,H,0,1,A,M Clattenburg
+16/03/08,Wigan,Bolton,1,0,H,1,0,H,S Tanner
+17/03/08,Birmingham,Newcastle,1,1,D,1,0,H,H Webb
+19/03/08,Man United,Bolton,2,0,H,2,0,H,A Wiley
+19/03/08,Tottenham,Chelsea,4,4,D,1,2,A,M Riley
+22/03/08,Aston Villa,Sunderland,0,1,A,0,0,D,H Webb
+22/03/08,Blackburn,Wigan,3,1,H,2,1,H,M Dean
+22/03/08,Bolton,Man City,0,0,D,0,0,D,A Marriner
+22/03/08,Everton,West Ham,1,1,D,1,0,H,M Halsey
+22/03/08,Middlesbrough,Derby,1,0,H,1,0,H,M Atkinson
+22/03/08,Newcastle,Fulham,2,0,H,1,0,H,A Wiley
+22/03/08,Reading,Birmingham,2,1,H,1,0,H,M Riley
+22/03/08,Tottenham,Portsmouth,2,0,H,0,0,D,P Dowd
+23/03/08,Chelsea,Arsenal,2,1,H,0,0,D,M Clattenburg
+23/03/08,Man United,Liverpool,3,0,H,1,0,H,S Bennett
+29/03/08,Birmingham,Man City,3,1,H,1,0,H,R Styles
+29/03/08,Bolton,Arsenal,2,3,A,2,0,H,C Foy
+29/03/08,Derby,Fulham,2,2,D,1,1,D,M Dean
+29/03/08,Man United,Aston Villa,4,0,H,2,0,H,M Halsey
+29/03/08,Portsmouth,Wigan,2,0,H,1,0,H,A Wiley
+29/03/08,Reading,Blackburn,0,0,D,0,0,D,M Clattenburg
+29/03/08,Sunderland,West Ham,2,1,H,1,1,D,A Marriner
+30/03/08,Chelsea,Middlesbrough,1,0,H,1,0,H,P Dowd
+30/03/08,Liverpool,Everton,1,0,H,1,0,H,H Webb
+30/03/08,Tottenham,Newcastle,1,4,A,1,1,D,S Bennett
+05/04/08,Arsenal,Liverpool,1,1,D,0,1,A,P Dowd
+05/04/08,Aston Villa,Bolton,4,0,H,1,0,H,M Atkinson
+05/04/08,Blackburn,Tottenham,1,1,D,1,1,D,P Walton
+05/04/08,Fulham,Sunderland,1,3,A,0,1,A,M Halsey
+05/04/08,Man City,Chelsea,0,2,A,0,1,A,C Foy
+05/04/08,Newcastle,Reading,3,0,H,2,0,H,L Probert
+05/04/08,Wigan,Birmingham,2,0,H,1,0,H,M Dean
+06/04/08,Everton,Derby,1,0,H,0,0,D,A Marriner
+06/04/08,Middlesbrough,Man United,2,2,D,1,1,D,M Riley
+08/04/08,West Ham,Portsmouth,0,1,A,0,0,D,L Probert
+12/04/08,Birmingham,Everton,1,1,D,0,0,D,S Bennett
+12/04/08,Bolton,West Ham,1,0,H,0,0,D,P Walton
+12/04/08,Derby,Aston Villa,0,6,A,0,3,A,K Stroud
+12/04/08,Portsmouth,Newcastle,0,0,D,0,0,D,P Dowd
+12/04/08,Reading,Fulham,0,2,A,0,1,A,C Foy
+12/04/08,Sunderland,Man City,1,2,A,0,0,D,M Riley
+12/04/08,Tottenham,Middlesbrough,1,1,D,1,0,H,M Halsey
+13/04/08,Liverpool,Blackburn,3,1,H,0,0,D,A Wiley
+13/04/08,Man United,Arsenal,2,1,H,0,0,D,H Webb
+14/04/08,Chelsea,Wigan,1,1,D,0,0,D,A Marriner
+17/04/08,Everton,Chelsea,0,1,A,0,1,A,M Atkinson
+19/04/08,Arsenal,Reading,2,0,H,2,0,H,P Walton
+19/04/08,Blackburn,Man United,1,1,D,1,0,H,R Styles
+19/04/08,Fulham,Liverpool,0,2,A,0,1,A,M Atkinson
+19/04/08,Middlesbrough,Bolton,0,1,A,0,0,D,A Wiley
+19/04/08,West Ham,Derby,2,1,H,1,0,H,S Tanner
+19/04/08,Wigan,Tottenham,1,1,D,1,1,D,L Probert
+20/04/08,Aston Villa,Birmingham,5,1,H,2,0,H,M Clattenburg
+20/04/08,Man City,Portsmouth,3,1,H,2,1,H,A Marriner
+20/04/08,Newcastle,Sunderland,2,0,H,2,0,H,M Dean
+26/04/08,Birmingham,Liverpool,2,2,D,1,0,H,P Walton
+26/04/08,Chelsea,Man United,2,1,H,1,0,H,A Wiley
+26/04/08,Man City,Fulham,2,3,A,2,0,H,M Dean
+26/04/08,Sunderland,Middlesbrough,3,2,H,2,1,H,S Bennett
+26/04/08,Tottenham,Bolton,1,1,D,0,0,D,M Clattenburg
+26/04/08,West Ham,Newcastle,2,2,D,2,2,D,U Rennie
+26/04/08,Wigan,Reading,0,0,D,0,0,D,M Atkinson
+27/04/08,Everton,Aston Villa,2,2,D,0,0,D,P Dowd
+27/04/08,Portsmouth,Blackburn,0,1,A,0,0,D,M Riley
+28/04/08,Derby,Arsenal,2,6,A,1,2,A,A Marriner
+03/05/08,Aston Villa,Wigan,0,2,A,0,0,D,R Styles
+03/05/08,Blackburn,Derby,3,1,H,1,1,D,U Rennie
+03/05/08,Bolton,Sunderland,2,0,H,1,0,H,M Atkinson
+03/05/08,Fulham,Birmingham,2,0,H,0,0,D,C Foy
+03/05/08,Man United,West Ham,4,1,H,3,1,H,M Riley
+03/05/08,Middlesbrough,Portsmouth,2,0,H,1,0,H,P Walton
+03/05/08,Reading,Tottenham,0,1,A,0,1,A,H Webb
+04/05/08,Arsenal,Everton,1,0,H,0,0,D,A Wiley
+04/05/08,Liverpool,Man City,1,0,H,0,0,D,M Halsey
+05/05/08,Newcastle,Chelsea,0,2,A,0,0,D,S Bennett
+11/05/08,Birmingham,Blackburn,4,1,H,1,0,H,H Webb
+11/05/08,Chelsea,Bolton,1,1,D,0,0,D,C Foy
+11/05/08,Derby,Reading,0,4,A,0,1,A,M Riley
+11/05/08,Everton,Newcastle,3,1,H,1,0,H,P Walton
+11/05/08,Middlesbrough,Man City,8,1,H,2,0,H,P Dowd
+11/05/08,Portsmouth,Fulham,0,1,A,0,0,D,M Clattenburg
+11/05/08,Sunderland,Arsenal,0,1,A,0,1,A,K Stroud
+11/05/08,Tottenham,Liverpool,0,2,A,0,0,D,U Rennie
+11/05/08,West Ham,Aston Villa,2,2,D,1,1,D,M Dean
+11/05/08,Wigan,Man United,0,2,A,0,1,A,S Bennett
